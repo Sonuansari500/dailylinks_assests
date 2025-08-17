@@ -628,7 +628,71 @@
               "description": "No-code e-commerce platform tailored for Nepali merchants to launch stores quickly — included in DailyLinksNepal’s directory of e-commerce platforms for Nepal.",
               "label": "platform",
               "logo": "https://selldone.com/wp-content/uploads/2020/04/logo.png"
-            }
+            },
+            {
+              "id" : "link_204",
+              "title":"Thulo.com",
+              "url":"https://thulo.com.np/",
+              "description":"Multi-category online store with books, groceries, electronics, etc",
+              "label":"platform",
+              "logo":"https://thulo.com/favicon.ico"
+            },
+            {
+              "id": "link_205",
+              "title": "DealAyo",
+              "url": "https://www.dealayo.com",
+              "description": "Affordable Nepali online shopping site offering multiple categories from gadgets to clothing.",
+              "label": "platform",
+              "logo": "https://www.dealayo.com/media/favicon/default/favicon.ico"
+            },
+              {
+                "id": "link_206",
+                "title": "MeroShopping",
+                "url": "https://www.meroshopping.com",
+                "description": "Reliable e-commerce store with free delivery inside Kathmandu valley.",
+                "label": "popular",
+                "logo": "https://www.meroshopping.com/favicon.ico"
+              },
+                {
+                  "id": "link_007",
+                  "title": "SmartDoko",
+                  "url": "https://smartdoko.com",
+                  "description": "IMS Group’s online megastore offering wide range of products & reward points system.",
+                  "label": "popular",
+                  "logo": "https://smartdoko.com/favicon.ico"
+                },
+                {
+                  "id": "link_208",
+                  "title": "Muncha.com",
+                  "url": "https://www.muncha.com",
+                  "description": "One of Nepal’s oldest online gift and shopping sites, popular among NRNs.",
+                  "label": "platform",
+                  "logo": "https://www.muncha.com/favicon.ico"
+                },
+                {
+                  "id": "link_209",
+                  "title": "Foodmandu",
+                  "url": "https://foodmandu.com",
+                  "description": "Nepal’s first and largest online food delivery platform.",
+                  "label": "specialized",
+                  "logo": "https://foodmandu.com/favicon.ico"
+                },
+                {
+                  "id": "link_210",
+                  "title": "Oliz Store",
+                  "url": "https://www.olizstore.com",
+                  "description": "Premium Nepali e-commerce site for Apple products, gadgets, and electronics.",
+                  "label": "marketplace",
+                  "logo": "https://www.olizstore.com/favicon.ico"
+                },
+                {
+                  "id": "link_211",
+                  "title": "Swodeshi",
+                  "url": "https://swodeshi.com",
+                  "description": "Online marketplace highlighting Nepali-made and handcrafted products.",
+                  "label": "marketplace",
+                  "logo": "https://swodeshi.com/favicon.ico"
+                }
           ]
         },
         {
@@ -636,7 +700,7 @@
           "title": "Local Classifieds & Stores",
           "links": [
             {
-              "id": "link_204",
+              "id": "link_212",
               "title": "BhatBhateni Online",
               "url": "https://www.bhatbhatenionline.com",
               "description": "Supermarket chain with online ordering and delivery services in Nepal — featured in DailyLinksNepal’s curated directory of local retailers.",
@@ -644,13 +708,78 @@
               "logo": "https://www.bhatbhatenionline.com/assets/images/logo.png"
             },
             {
-              "id": "link_205",
+              "id": "link_213",
               "title": "Hamrobazar",
               "url": "https://www.hamrobazar.com",
               "description": "Nepal's local classifieds site for buying and selling used goods — listed on DailyLinksNepal as a popular marketplace platform.",
               "label": "popular",
               "logo": "https://www.hamrobazar.com/assets/images/logo.png"
+            },
+            {
+              "id": "link_214",
+              "title": "Hamro Nepali Bazar",
+              "url": "https://hamronepalibazar.com",
+              "description": "Free buy-&-sell platform in Nepal; anyone can post ads without hidden charges.",
+              "label": "classified",
+              "logo": "https://hamronepalibazar.com/favicon.ico"
+            },
+            {
+              "id": "link_215",
+              "title": "Khoji Sansar",
+              "url": "https://www.khojisansar.com",
+              "description": "Emerging free classified platform in Nepal for buying & selling new or used goods.",
+              "label": "classified",
+              "logo": "https://www.khojisansar.com/favicon.ico"
+            },
+            {
+              "id": "link_216",
+              "title": "Biskoon",
+              "url": "https://www.biskoon.com",
+              "description": "Classified site to buy, sell or promote your business or products in Nepal, job postings too.",
+              "label": "classified",
+              "logo": "https://www.biskoon.com/favicon.ico"
+            },
+            {
+              "id": "link_217",
+              "title": "YoHo Bazaar",
+              "url": "https://yohobazaar.com",
+              "description": "Online bazaar for fashion, cars, electronics, appliances & spare parts.",
+              "label": "classified",
+              "logo": "https://yohobazaar.com/favicon.ico"
+            },
+            {
+              "id": "link_218",
+              "title": "KinBech Nepal",
+              "url": "https://www.kinbechnepal.com",
+              "description": "Free online classified marketplace for buying, selling or renting in Nepal.",
+              "label": "classified",
+              "logo": "https://www.kinbechnepal.com/favicon.ico"
+            },
+            {
+              "id": "link_219",
+              "title": "NepYou",
+              "url": "https://nepyou.com",
+              "description": "Fast-growing free classified site for ads on buy/sell, rentals, jobs, real estate, services.",
+              "label": "classified",
+              "logo": "https://nepyou.com/favicon.ico"
+            },
+            {
+              "id": "link_220",
+              "title": "Sara Deal Nepal",
+              "url": "https://saradeal.com",
+              "description": "Free classifieds in Nepal for flats, jobs, cars, furniture, tools, personals.",
+              "label": "classified",
+              "logo": "https://saradeal.com/favicon.ico"
+            },
+            {
+              "id": "link_221",
+              "title": "NepSouk",
+              "url": "https://nepsouk.com",
+              "description": "Free online classified marketplace in Nepal; buy and sell for free anywhere in Nepal.",
+              "label": "classified",
+              "logo": "https://nepsouk.com/favicon.ico"
             }
+                  
           ]
         }
       ]

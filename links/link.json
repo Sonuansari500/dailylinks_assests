@@ -816,6 +816,69 @@
           "url": "https://www.jobsnepal.com/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
           "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+        },
+           {
+          "id": "cat_13_305",
+          "title": "NamasteJob",
+          "url": "https://namastejob.com/",
+          "description": "Find jobs and career resources across Nepal.",
+          "logo": "https://namastejob.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_306",
+          "title": "Job World Nepal",
+          "url": "https://www.jobworldnepal.com/",
+          "description": "Trusted portal for featured and walk-in jobs.",
+          "logo": "https://www.jobworldnepal.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_306",
+          "title": "NepalDev",
+          "url": "https://www.nepaldev.com/",
+          "description": "Job and internship listings for students and freshers.",
+          "logo": "https://www.nepaldev.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_307",
+          "title": "Seek Jobs Nepal",
+          "url": "https://seek.com.np/",
+          "description": "Job search platform with listings across industries.",
+          "logo": "https://seek.com.np/favicon.ico"
+        },
+        {
+          "id": "cat_13_308",
+          "title": "Rolling Nexus (Jobs)",
+          "url": "https://www.rollingnexus.com/jobs",
+          "description": "Comprehensive job portal for Nepalese job seekers.",
+          "logo": "https://www.rollingnexus.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_309",
+          "title": "SabaikoJobs",
+          "url": "https://sabaikojobs.com/",
+          "description": "Easy platform to find and apply for jobs in Nepal.",
+          "logo": "https://sabaikojobs.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_310",
+          "title": "Career in Nepal",
+          "url": "https://careerinnepal.com/",
+          "description": "Daily job updates across multiple sectors.",
+          "logo": "https://careerinnepal.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_311",
+          "title": "MegaJob Nepal",
+          "url": "https://megajobnepal.com/",
+          "description": "Find jobs, tenders, and career tips in Nepal.",
+          "logo": "https://megajobnepal.com/favicon.ico"
+        },
+        {
+          "id": "cat_13_312",
+          "title": "Bright Career Nepal",
+          "url": "https://brightcareernepal.com/",
+          "description": "Daily job postings including government and NGOs.",
+          "logo": "https://brightcareernepal.com/favicon.ico"
         }
       ]
     },
@@ -825,19 +888,68 @@
       "icon": "Dumbbell",
       "links": [
         {
-          "id": "cat_14_301",
-          "title": "Cricket Association of Nepal",
-          "url": "https://cricketnepal.org.np/",
-          "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
-        },
-        {
-          "id": "cat_14_302",
-          "title": "Cricket Association of the Blind – Nepal",
-          "url": "https://cabnepal.org.np/",
-          "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
-        }
+      "id": "cat_14_301",
+      "title": "Cricket Association of Nepal",
+      "url": "https://cricketnepal.org.np/",
+      "description": "Official governing body for cricket in Nepal.",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Cricket_Association_of_Nepal_logo.png/150px-Cricket_Association_of_Nepal_logo.png"
+    },
+    {
+      "id": "cat_14_302",
+      "title": "Cricket Association of the Blind – Nepal",
+      "url": "https://cabnepal.org.np/",
+      "description": "Promotes cricket for visually impaired athletes in Nepal.",
+      "logo": "https://cabnepal.org.np/wp-content/uploads/2021/02/cab-logo.png"
+    },
+    {
+      "id": "cat_14_303",
+      "title": "All Nepal Football Association (ANFA)",
+      "url": "https://the-anfa.com/",
+      "description": "Official governing body for football in Nepal.",
+      "logo": "https://the-anfa.com/themes/anfa_theme/images/logo.png"
+    },
+    {
+      "id": "cat_14_304",
+      "title": "Nepal Olympic Committee",
+      "url": "https://www.nocnepal.org.np/",
+      "description": "National Olympic body representing Nepal in international games.",
+      "logo": "https://nocnepal.org.np/uploads/logo.png"
+    },
+    {
+      "id": "cat_14_305",
+      "title": "Nepal National and International Players Association (NNIPA)",
+      "url": "https://nnipa.org.np/",
+      "description": "Supports Nepali athletes with resources and opportunities.",
+      "logo": "https://nnipa.org.np/images/logo.png"
+    },
+    {
+      "id": "cat_14_306",
+      "title": "Nepal Volleyball Association",
+      "url": "https://nepavolleyball.org/",
+      "description": "Official body to manage and develop volleyball in Nepal.",
+      "logo": "https://nepavolleyball.org/images/logo.png"
+    },
+    {
+      "id": "cat_14_307",
+      "title": "Nepal Taekwondo Association",
+      "url": "https://nepaltaekwondo.org.np/",
+      "description": "Governing body promoting taekwondo across Nepal.",
+      "logo": "https://nepaltaekwondo.org.np/assets/images/logo.png"
+    },
+    {
+      "id": "cat_14_308",
+      "title": "Nepal Golf Association",
+      "url": "https://nepalgolf.org.np/",
+      "description": "Promotes golf and manages tournaments in Nepal.",
+      "logo": "https://nepalgolf.org.np/images/logo.png"
+    },
+    {
+      "id": "cat_14_309",
+      "title": "National Sports Council Nepal",
+      "url": "https://nsc.gov.np/",
+      "description": "Government body for development and promotion of sports in Nepal.",
+      "logo": "https://nsc.gov.np/images/logo.png"
+    }
       ]
     },
     {

@@ -2607,7 +2607,7 @@
         {
           "id": "sub_10_2",
           "title": "Science",
-         "thumbnail": "notes/10/science/images/science.jpeg",
+         "thumbnail": "/notes/10/science/images/science.jpeg",
           "chapters": [
             {
               "id": "chap_10_2_1",

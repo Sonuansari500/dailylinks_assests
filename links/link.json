@@ -2486,171 +2486,146 @@
     {
       "id": "acad_10",
       "title": "Grade 10",
-      "thumbnail": "/images/grades/10.jpeg",
+      "thumbnail": "/grades/10.jpeg",
       "subjects": [
         {
           "id": "sub_10_1",
           "title": "C.Mathematics",
-          "thumbnail": "/images/subjects/math.jpeg",
+          "thumbnail": "/notes/10/cmath/images/math.jpeg",
           "chapters": [
             {
               "id": "chap_10_1_1",
               "title": "Set",
-              "thumbnail": "/images/chapters/algebra.jpeg",
-              "fileUrl": "/notes/10/cmath/sets.pdf",
+              "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/sets.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_2",
               "title": "Tax and Money Exchange",
-              "thumbnail": "/images/chapters/geometry.jpeg",
-              "fileUrl": "/notes/10/cmath/taxandMoneyExchange.pdf",
+              "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/taxandMoneyExchange.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_3",
               "title": "Compound Interest",
-              "thumbnail": "/images/chapters/trigonometry.jpeg",
-              "fileUrl": "/notes/10/cmath/compoundInterest.pdf",
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/compoundInterest.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_4",
               "title": "Population Growth and Depreciation",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/populationGrowthandDepreciation.pdf",
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/populationGrowthandDepreciation.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_5",
               "title": "Menstruation: Plane Surface",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/menstruationPlaneSurface.pdf",
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/menstruationPlaneSurface.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_6",
               "title": "Menstruation: Cylinder and Sphere",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/MenstruationCylinderandSphere.pdf"
+              "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/MenstruationCylinderandSphere.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Mensuration: Prism and Pyramid",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/MensurationPrismandPyramid.pdf"
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/MensurationPrismandPyramid.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "HCF and LCM",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/hcflcm.pdf",
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/hcflcm.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_6",
               "title": "Indices",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/Indices.pdf"
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/Indices.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Surds",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/surds.pdf",
+             "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/surds.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_6",
               "title": "Equation",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/Equation.pdf"
+            "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/Equation.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Geometry: Area of Triangle and Quadrilateral ",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/GeometryAreaofTriangleandQuadrilateral .pdf"
+            "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/GeometryAreaofTriangleandQuadrilateral .pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Geometry: Construction",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/GeometryConstructionl.pdf"
+            "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/GeometryConstructionl.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Geometry: Circle",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/GeometryCircle.pdf"
+            "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/GeometryCircle.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Trigonometry",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/Trigonometry.pdf"
+              "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/Trigonometry.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Statics",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/Statics.pdf"
+            "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/Statics.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": " Probability",
-              "thumbnail": "/images/chapters/probability.jpeg",
-              "fileUrl": "/notes/10/cmath/Probability.pdf"
+            "thumbnail": "/notes.jpeg",
+              "fileUrl": "/10/cmath/Probability.pdf"
             }
           ]
         },
         {
           "id": "sub_10_2",
           "title": "Science",
-          "thumbnail": "/images/subjects/science.jpeg",
+         "thumbnail": "notes/10/science/images/science.jpeg",
           "chapters": [
             {
               "id": "chap_10_2_1",
               "title": "Physics",
-              "thumbnail": "/images/chapters/physics.jpeg",
+             "thumbnail": "/notes.jpeg",
               "fileUrl": "/notes/10/science/physics.pdf"
             },
             {
               "id": "chap_10_2_2",
               "title": "Chemistry",
-              "thumbnail": "/images/chapters/chemistry.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/notes/10/science/chemistry.pdf"
             },
             {
               "id": "chap_10_2_3",
               "title": "Biology",
-              "thumbnail": "/images/chapters/biology.jpeg",
+            "thumbnail": "/notes.jpeg",
               "fileUrl": "/notes/10/science/biology.pdf"
-            }
-          ]
-        },
-        {
-          "id": "sub_10_3",
-          "title": "English",
-          "thumbnail": "/images/subjects/english.jpeg",
-          "chapters": [
-            {
-              "id": "chap_10_3_1",
-              "title": "Grammar",
-              "thumbnail": "/images/chapters/grammar.jpeg",
-              "fileUrl": "/notes/10/english/grammar.pdf"
-            },
-            {
-              "id": "chap_10_3_2",
-              "title": "Reading Comprehension",
-              "thumbnail": "/images/chapters/reading.jpeg",
-              "fileUrl": "/notes/10/english/reading.pdf"
-            },
-            {
-              "id": "chap_10_3_3",
-              "title": "Writing Skills",
-              "thumbnail": "/images/chapters/writing.jpeg",
-              "fileUrl": "/notes/10/english/writing.pdf"
             }
           ]
         }

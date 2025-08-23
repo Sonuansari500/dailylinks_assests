@@ -287,7 +287,7 @@
               "url": "https://www.esewa.com.np",
               "description": "Popular Nepali digital wallet for bill payments, mobile recharge, and merchant payments — featured in DailyLinksNepal's curated fintech directory for easy access.",
               "label": "popular",
-              "logo": "https://www.esewa.com.np/assets/images/logo.png"
+              "logo": "https://media.licdn.com/dms/image/sync/v2/D4E27AQETFA8ADxvsfw/articleshare-shrink_800/articleshare-shrink_800/0/1724254263784?e=2147483647&v=beta&t=1a-c6gIp2m1O544w82Z3MFPqm64-LFGLIRe1XKn78G0"
             },
             {
               "id": "link_102",
@@ -295,15 +295,15 @@
               "url": "https://khalti.com",
               "description": "Wallet and payment gateway used for utilities, e-commerce, and QR payments — listed on DailyLinksNepal under mobile wallet services.",
               "label": "popular",
-              "logo": "https://khalti.com/static/img/logo.png"
+              "logo": "https://www.enepsters.com/wp-content/uploads/2018/08/khalti-des.jpg"
             },
             {
               "id": "link_103",
               "title": "IME Pay",
-              "url": "https://imepay.com",
+              "url": "https://www.imepay.com.np",
               "description": "Mobile wallet offering remittance and merchant services in Nepal — included in DailyLinksNepal's fintech resources section.",
               "label": "official",
-              "logo": "https://imepay.com/wp-content/uploads/2020/04/logo.png"
+              "logo": "https://www.imepay.com.np/assets/logo/ime-main.svg"
             },
             {
               "id": "link_104",
@@ -311,7 +311,7 @@
               "url": "https://www.connectips.com",
               "description": "Bank-integrated payment and settlement system for Nepali users — found in DailyLinksNepal’s organized payment platform listings.",
               "label": "bank",
-              "logo": "https://www.connectips.com/images/logo.png"
+              "logo": "https://connectips.com/images/logo_connectIPS.png"
             }
           ]
         },
@@ -646,7 +646,7 @@
             {
               "id": "link_205",
               "title": "Hamrobazar",
-              "url": "https://www.hamrobazar.com",
+              "url": "https://hamrobazaar.com/",
               "description": "Nepal's local classifieds site for buying and selling used goods — listed on DailyLinksNepal as a popular marketplace platform.",
               "label": "popular",
               "logo": "https://www.hamrobazar.com/assets/images/logo.png"

@@ -4,6 +4,7 @@
             "id": "cat_2",
             "title": "Government",
             "icon": "Government",
+            "backgroundImage":"/categories/goverment.png",
             "subcategories": [
                 {
                     "id": "subc_2",
@@ -262,6 +263,7 @@
             "id": "cat_6",
             "title": "Payments & Fintech",
             "icon": "CreditCard",
+             "backgroundImage":"/categories/payment.png",
             "subcategories": [
                 {
                     "id": "subc_1",
@@ -329,6 +331,7 @@
             "id": "cat_1",
             "title": "Banks",
             "icon": "Banknote",
+             "backgroundImage":"/categories/bank.png",
             "subcategories": [
                 {
                     "id": "subc_1",
@@ -586,6 +589,7 @@
             "id": "cat_7",
             "title": "E-commerce & Marketplaces",
             "icon": "ShoppingCart",
+           "backgroundImage":"/categories/eccomerce.png",
             "subcategories": [
                 {
                     "id": "subc_3",
@@ -637,6 +641,7 @@
             "id": "cat_13",
             "title": "Jobs & Career",
             "icon": "Briefcase",
+              "backgroundImage":"/categories/jobs.png",
             "links": [
                 {
                     "id": "cat_13_301",
@@ -672,6 +677,7 @@
             "id": "cat_14",
             "title": "Sports & Recreation",
             "icon": "Dumbbell",
+              "backgroundImage":"/categories/sports.png",
             "links": [
                 {
                     "id": "cat_14_301",
@@ -693,6 +699,7 @@
             "id": "cat_15",
             "title": "Weather & Natural Disaster Updates",
             "icon": "CloudSun",
+              "backgroundImage":"/categories/weather.png",
             "links": [
                 {
                     "id": "cat_15_301",
@@ -707,6 +714,7 @@
             "id": "cat_3",
             "title": "News & Media",
             "icon": "Newspaper",
+                      "backgroundImage":"/categories/newsandmedia.png",
             "subcategories": [
                 {
                     "id": "subc_11",
@@ -881,6 +889,7 @@
             "id": "cat_4",
             "title": "Utilities",
             "icon": "Plug",
+            "backgroundImage":"/categories/utility.png",
             "subcategories": [
                 {
                     "id": "subc_13",
@@ -986,6 +995,7 @@
             "id": "cat_5",
             "title": "Travel & Transport",
             "icon": "Bus",
+                        "backgroundImage":"/categories/traveltransport.png",
             "subcategories": [
                 {
                     "id": "subc_14",
@@ -1123,6 +1133,7 @@
             "id": "cat_8",
             "title": "Programming & Dev Tools",
             "icon": "Code",
+               "backgroundImage":"/categories/programmingtools.png",
             "subcategories": [
                 {
                     "id": "subc_5",
@@ -1182,6 +1193,7 @@
             "id": "cat_9",
             "title": "AI Tools & Services",
             "icon": "Cpu",
+                        "backgroundImage":"/categories/aitool.png",
             "subcategories": [
                 {
                     "id": "subc_7",
@@ -1233,6 +1245,7 @@
             "id": "cat_11",
             "title": "Government & Citizen Services",
             "icon": "Globe",
+                                   "backgroundImage":"/categories/gvtcitizenservices.png",
             "subcategories": [
                 {
                     "id": "subc_10",
@@ -1262,6 +1275,7 @@
             "id": "cat_12",
             "title": "Learning & Community",
             "icon": "BookOpen",
+            "backgroundImage":"/categories/learning&community.png",
             "subcategories": [
                 {
                     "id": "subc_11",
@@ -1305,6 +1319,7 @@
             "id": "cat_13",
             "title": "Tools for Businesses",
             "icon": "Server",
+                    "backgroundImage":"/categories/ltoolsforbusiness.png",
             "subcategories": [
                 {
                     "id": "subc_13",
@@ -2464,110 +2479,110 @@
                         {
                             "id": "chap_10_1_1",
                             "title": "Set",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/sets.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_2",
                             "title": "Tax and Money Exchange",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/taxandMoneyExchange.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_3",
                             "title": "Compound Interest",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/compoundInterest.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_4",
                             "title": "Population Growth and Depreciation",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/populationGrowthandDepreciation.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_5",
                             "title": "Menstruation: Plane Surface",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/menstruationPlaneSurface.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Menstruation: Cylinder and Sphere",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/MenstruationCylinderandSphere.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Mensuration: Prism and Pyramid",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/MensurationPrismandPyramid.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "HCF and LCM",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/hcflcm.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Indices",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/Indices.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Surds",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/surds.pdf",
                             "active": true
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Equation",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/Equation.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Geometry: Area of Triangle and Quadrilateral ",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/GeometryAreaofTriangleandQuadrilateral .pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Geometry: Construction",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/GeometryConstructionl.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Geometry: Circle",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/GeometryCircle.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Trigonometry",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/Trigonometry.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": "Statics",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/Statics.pdf"
                         },
                         {
                             "id": "chap_10_1_6",
                             "title": " Probability",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/10/cmath/Probability.pdf"
                         }
                     ]
@@ -2580,19 +2595,19 @@
                         {
                             "id": "chap_10_2_1",
                             "title": "Physics",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/notes/10/science/physics.pdf"
                         },
                         {
                             "id": "chap_10_2_2",
                             "title": "Chemistry",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/notes/10/science/chemistry.pdf"
                         },
                         {
                             "id": "chap_10_2_3",
                             "title": "Biology",
-                            "thumbnail": "/notes.jpeg",
+                            "thumbnail": "/notes.png",
                             "fileUrl": "/notes/10/science/biology.pdf"
                         }
                     ]

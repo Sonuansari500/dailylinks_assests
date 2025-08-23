@@ -606,14 +606,6 @@
                             "description": "Local e-commerce platform offering categories from home goods to electronics — listed on DailyLinksNepal among popular Nepali online stores.",
                          
                             "logo": "https://smartdoko.com/images/logo-smartdoko.png"
-                        },
-                        {
-                            "id": "link_203",
-                            "title": "Selldone",
-                            "url": "https://selldone.com/NP/merchants",
-                            "description": "No-code e-commerce platform tailored for Nepali merchants to launch stores quickly — included in DailyLinksNepal’s directory of e-commerce platforms for Nepal.",
-                            "label": "platform",
-                            "logo": "https://selldone.com/wp-content/uploads/2020/04/logo.png"
                         }
                     ]
                 },
@@ -624,10 +616,10 @@
                         {
                             "id": "link_204",
                             "title": "BhatBhateni Online",
-                            "url": "https://www.bhatbhatenionline.com",
+                            "url": "https://www.bbsm.com.np/",
                             "description": "Supermarket chain with online ordering and delivery services in Nepal — featured in DailyLinksNepal’s curated directory of local retailers.",
                             "label": "retail",
-                            "logo": "https://www.bhatbhatenionline.com/assets/images/logo.png"
+                            "logo": "https://bbsm.com.np/sites/images/Bhatbhateni%20Logo/BBSM%20Logo%20-%20Full.png"
                         },
                         {
                             "id": "link_205",
@@ -651,28 +643,28 @@
                     "title": "MeroJob",
                     "url": "https://merojob.com/",
                     "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-                    "logo": "https://static.merojob.com/images/logo/svg/mj_logo.svg"
+                    "logo": "https://static.merojob.com/images/logo/logo-og-image.jpg"
                 },
                 {
                     "id": "cat_13_302",
                     "title": "RamroJob",
                     "url": "https://www.ramrojob.com/",
                     "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-                    "logo": "https://www.ramrojob.com/images/navlogo.webp"
+                    "logo": "data:image/png;base64,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"
                 },
                 {
                     "id": "cat_13_303",
                     "title": "KumariJob",
                     "url": "https://www.kumarijob.com/",
                     "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-                    "logo": "https://www.kumarijob.com/soft-assets/images/logo.svg"
+                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJaXbd_rlH_pSz2Z0KBuQDG36JFkkQREqBw&s"
                 },
                 {
                     "id": "cat_13_304",
                     "title": "Jobs Nepal",
                     "url": "https://www.jobsnepal.com/",
                     "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-                    "logo": "https://www.jobsnepal.com/assets/front/images/jn-logo@2x.png"
+                    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFEfCHjguS_e7TyYWkalVhEAjYWBAESSesqg&s"
                 }
             ]
         },

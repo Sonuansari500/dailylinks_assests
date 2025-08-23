@@ -597,15 +597,15 @@
                             "url": "https://www.daraz.com.np",
                             "description": "Major online marketplace in Nepal for electronics, fashion, groceries, and more — featured on DailyLinksNepal in the curated Nepali marketplaces directory.",
                             "label": "popular",
-                            "logo": "https://www.daraz.com.np/assets/images/logo.png"
+                            "logo": "https://iconlogovector.com/uploads/images/2024/11/lg-6729f6cee6cc4-Daraz.webp"
                         },
                         {
                             "id": "link_202",
-                            "title": "Sastodeal",
-                            "url": "https://www.sastodeal.com",
+                            "title": "Smartdoko.com",
+                            "url": "https://smartdoko.com/",
                             "description": "Local e-commerce platform offering categories from home goods to electronics — listed on DailyLinksNepal among popular Nepali online stores.",
-                            "label": "popular",
-                            "logo": "https://www.sastodeal.com/assets/images/logo.png"
+                         
+                            "logo": "https://smartdoko.com/images/logo-smartdoko.png"
                         },
                         {
                             "id": "link_203",
@@ -635,7 +635,7 @@
                             "url": "https://hamrobazaar.com/",
                             "description": "Nepal's local classifieds site for buying and selling used goods — listed on DailyLinksNepal as a popular marketplace platform.",
                             "label": "popular",
-                            "logo": "https://www.hamrobazar.com/assets/images/logo.png"
+                            "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7f/bb/60/7fbb60d7-77d9-5aa9-ab05-a6c500e5ab67/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png"
                         }
                     ]
                 }

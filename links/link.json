@@ -1342,23 +1342,13 @@
             "id": "res-se",
             "title": "School Level Exams",
             "links": [
-                {
-                    "id": "see-neb",
-                    "title": "SEE (Grade 10) NEB Official",
-                    "url": "https://see.gov.np",
-                    "description": "Access the official SEE (Grade 10) exam results directly from the NEB portal. Curated by DailylinksNepal to make your search simple and reliable."
-                },
-                {
-                    "id": "see-ntc",
-                    "title": "SEE (Grade 10) Nepal Telecom",
-                    "url": "https://see.ntc.net.np",
-                    "description": "Check SEE Grade 10 results via the Nepal Telecom platform. DailylinksNepal ensures you have quick, trusted access to your marks."
-                },
+               
                 {
                     "id": "see-ekt",
-                    "title": "SEE (Grade 10) Ekantipur",
+                    "title": "Grade-10 (SEE) Ekantipur",
                     "url": "https://results.ekantipur.com/see-results-with-marksheet.php",
-                    "description": "View SEE Grade 10 results from Ekantipur’s results service. Handpicked by DailylinksNepal for fast and easy result checking."
+                    "description": "View SEE Grade 10 results from Ekantipur’s results service. Handpicked by DailylinksNepal for fast and easy result checking.",
+                    "logo":"https://results.ekantipur.com/assets/images/kantipur-logo.png"
                 }
             ]
         },
@@ -1368,13 +1358,13 @@
             "links": [
                 {
                     "id": "plus2-sci",
-                    "title": "NEB (+2 Grade 12) NEB Official",
+                    "title": "Grade-12 (+2) NEB Official",
                     "url": "http://www.neb.gov.np/results",
                     "description": "Get official NEB Grade 12 results for all streams, including Science. Selected by DailylinksNepal to give you verified academic updates."
                 },
                 {
                     "id": "plus2-mgmt",
-                    "title": "NEB (+2 Grade 12) Nepal Telecom",
+                    "title": "Grade-12 (+2) Nepal Telecom",
                     "url": "https://neb.ntc.net.np/",
                     "description": "Check NEB Grade 12 results via Nepal Telecom’s reliable portal. DailylinksNepal brings you direct, trustworthy links."
                 }

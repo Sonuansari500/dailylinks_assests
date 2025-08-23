@@ -652,28 +652,28 @@
           "title": "MeroJob",
           "url": "https://merojob.com/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://static.merojob.com/images/logo/svg/mj_logo.svg"
         },
         {
           "id": "cat_13_302",
           "title": "RamroJob",
-          "url": "https://www.kumarijob.com/",
+          "url": "https://www.ramrojob.com/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://www.ramrojob.com/images/navlogo.webp"
         },
         {
           "id": "cat_13_303",
           "title": "KumariJob",
           "url": "https://www.kumarijob.com/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://www.kumarijob.com/soft-assets/images/logo.svg"
         },
         {
           "id": "cat_13_304",
           "title": "Jobs Nepal",
           "url": "https://www.jobsnepal.com/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://www.jobsnepal.com/assets/front/images/jn-logo@2x.png"
         }
       ]
     },
@@ -687,14 +687,14 @@
           "title": "Cricket Association of Nepal",
           "url": "https://cricketnepal.org.np/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://cricketnepal.org.np/wp-content/uploads/2023/09/logo.svg"
         },
         {
           "id": "cat_14_302",
           "title": "Cricket Association of the Blind – Nepal",
           "url": "https://cabnepal.org.np/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://cabnepal.org.np/wp-content/uploads/2025/04/CAB-Nepal-New-Logo.jpg"
         }
       ]
     },
@@ -708,7 +708,7 @@
           "title": "Department of Hydrology and Meteorology",
           "url": "https://www.dhm.gov.np/",
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
-          "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
+          "logo": "https://www.dhm.gov.np/assets/frontend/assets/images/new_logo.png"
         }
       ]
     },
@@ -1202,15 +1202,15 @@
               "url": "https://openai.com",
               "description": "Large language models, APIs, and developer docs for building chatbots and AI features — featured in DailyLinksNepal’s AI technology directory.",
               "label": "global",
-              "logo": "https://openai.com/favicon.ico"
+`              "logo": "https://thumbs.dreamstime.com/b/chatgpt-artificial-intelligence-program-logo-openai-company-polygonal-green-background-illustration-banner-news-vector-286505082.jpg"
             },
             {
               "id": "link_402",
-              "title": "Google Cloud AI / Vertex AI",
-              "url": "https://cloud.google.com/vertex-ai",
+              "title": "Google Gemini",
+              "url": "https://gemini.google.com/app",
               "description": "Managed ML platform for training and deploying models at scale — found on DailyLinksNepal in cloud-based AI services.",
               "label": "cloud",
-              "logo": "https://www.gstatic.com/devrel-devsite/prod/vc8928e4803ba00823b2c7c8c857eabb0140a02c5889ffafe6db2b9ab9d1c45f8/cloud/images/favicons/onecloud/super_cloud.png"
+              "logo": "https://cdn.analyticsvidhya.com/wp-content/uploads/2023/12/Gemini-scaled.jpg"
             }
           ]
         },

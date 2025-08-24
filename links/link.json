@@ -344,7 +344,7 @@
           "url": "https://openai.com",
           "description": "Large language models, APIs, and developer docs for building chatbots and AI features.",
           "label": "global",
-          "logo": "https://openai.com/content/images/2023/03/openai-avatar.png"
+          "logo": "https://static.vecteezy.com/system/resources/previews/029/463/353/non_2x/chatgpt-logo-open-ai-logotype-ai-chatbot-chat-gpt-app-ai-artificial-intelligence-chatbot-services-logo-company-stock-free-vector.jpg"
         },
         {
           "id": "link_402",
@@ -352,47 +352,25 @@
           "url": "https://cloud.google.com/vertex-ai",
           "description": "Managed ML platform for training and deploying models at scale.",
           "label": "cloud",
-          "logo": "https://cloud.google.com/images/gcp-icon.svg"
+          "logo": "https://cdn.prod.website-files.com/5da60b8bfc98fdf11111b791/671776aafb36a9c2cbc908a0_669e7fe5698e0097ad95e79d_What%2520is%2520Vertex%2520AI_.png"
         },
-        {
-          "id": "link_403",
-          "title": "Microsoft Azure AI",
-          "url": "https://azure.microsoft.com/en-us/services/cognitive-services/",
-          "description": "AI and machine learning services by Microsoft Azure for building intelligent applications.",
-          "label": "cloud",
-          "logo": "https://azurecomcdn.azureedge.net/cvt-e686ebd2346fbd7b9fee0e8d48b4d0d4e44bb02f1fdea608c9c398746cd12346/svg/brand-azure.svg"
-        },
+      
         {
           "id": "link_404",
           "title": "Anthropic AI (Claude)",
           "url": "https://www.anthropic.com",
           "description": "AI safety and research company, developing reliable and steerable AI systems.",
           "label": "research",
-          "logo": "https://www.anthropic.com/img/anthropic-logo.svg"
+          "logo": "https://images.indianexpress.com/2025/02/Anthropic-new-AI-model.jpg"
         },
-        {
-          "id": "link_405",
-          "title": "Hugging Face",
-          "url": "https://huggingface.co",
-          "description": "Open platform for sharing machine learning models and datasets, popular for transformers and NLP tools.",
-          "label": "community",
-          "logo": "https://huggingface.co/front/assets/huggingface_logo-noshadow.svg"
-        },
-        {
-          "id": "link_406",
-          "title": "IBM Watson",
-          "url": "https://www.ibm.com/watson",
-          "description": "Enterprise AI platform offering machine learning, NLP, and computer vision services.",
-          "label": "enterprise",
-          "logo": "https://www.ibm.com/watson/assets/ibm-watson-logo.svg"
-        },
+      
         {
           "id": "link_407",
           "title": "Cohere",
           "url": "https://cohere.ai",
           "description": "Provider of large language models accessible via API for generating and understanding text.",
           "label": "api",
-          "logo": "https://assets-global.website-files.com/61ffa456afe22e77fc84d375/63cca0f1283b4592ea74dd06_cohere-icon.svg"
+          "logo": "https://cohere.com/logo.svg"
         },
         {
           "id": "link_408",
@@ -400,7 +378,7 @@
           "url": "https://www.ai21.com",
           "description": "Developer of advanced language models and tools to assist writers and developers.",
           "label": "nlp",
-          "logo": "https://www.ai21.com/static/img/logo.svg"
+          "logo": "https://www.ai21.com/wp-content/uploads/2024/11/ai21-logo.svg"
         }
       ]
     },
@@ -622,7 +600,110 @@
     }
   ]
 }
-,
+,   {
+      "id": "cat_11",
+      "title": "Programming & Dev Tools",
+      "icon": "Code",
+       "backgroundImage":"/categories/programming&devtools.png",
+      "subcategories": [
+        {
+          "id": "subc_5",
+          "title": "Code Hosting & Collaboration",
+          "links": [
+            {
+              "id": "link_301",
+              "title": "GitHub",
+              "url": "https://github.com",
+              "description": "Code hosting, version control, and collaboration platform widely used by developers — featured in DailyLinksNepal’s developer tools directory.",
+              "label": "global",
+              "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            },
+            {
+              "id": "link_302",
+              "title": "GitLab",
+              "url": "https://gitlab.com",
+              "description": "Repository management, CI/CD, and DevOps platform — included in DailyLinksNepal’s curated development tools section.",
+              "label": "global",
+              "logo": "https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png"
+            }
+          ]
+        },
+        {
+          "id": "subc_6",
+          "title": "APIs, Hosting & Dev Platforms",
+          "links": [
+            {
+              "id": "link_303",
+              "title": "Vercel",
+              "url": "https://vercel.com",
+              "description": "Frontend hosting for Next.js and static sites with easy deployments — found on DailyLinksNepal in the hosting and deployment category.",
+              "label": "hosting",
+              "logo": "https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
+            },
+            {
+              "id": "link_304",
+              "title": "Netlify",
+              "url": "https://www.netlify.com",
+              "description": "Static site hosting with CI/CD and serverless functions — featured in DailyLinksNepal’s development platforms listing.",
+              "label": "hosting",
+              "logo": "https://www.netlify.com/img/press/logos/logomark.png"
+            },
+            {
+              "id": "link_305",
+              "title": "Heroku",
+              "url": "https://www.heroku.com",
+              "description": "Platform as a Service for deploying backend apps quickly — included in DailyLinksNepal’s cloud platform resources.",
+              "label": "platform",
+              "logo": "https://www.herokucdn.com/favicon.ico"
+            }
+          ]
+        }
+      ]
+    },
+        {
+      "id": "cat_14",
+      "title": "Learning & Community",
+      "icon": "BookOpen",
+        "backgroundImage":"/categories/learning&community.png",
+      "subcategories": [
+        {
+          "id": "subc_11",
+          "title": "Courses & Tutorials",
+          "links": [
+            {
+              "id": "link_701",
+              "title": "Coursera",
+              "url": "https://www.coursera.org",
+              "description": "Online courses and specializations useful for programming, AI, and business skills — featured on DailyLinksNepal for online learning resources.",
+              "label": "global",
+              "logo": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-180x180.png"
+            },
+            {
+              "id": "link_702",
+              "title": "FreeCodeCamp",
+              "url": "https://www.freecodecamp.org",
+              "description": "Free programming curriculum and projects for web and development learners — included in DailyLinksNepal’s free learning platforms directory.",
+              "label": "free",
+              "logo": "https://www.freecodecamp.org/icons/icon-512x512.png"
+            }
+          ]
+        },
+        {
+          "id": "subc_12",
+          "title": "Local Communities & Meetups",
+          "links": [
+            {
+              "id": "link_703",
+              "title": "Nepal JS / Tech Meetups (example)",
+              "url": "https://www.meetup.com/topics/javascript/Nepal/",
+              "description": "Local developer meetups and community events including JavaScript, DevOps, and AI — listed on DailyLinksNepal’s community events section.",
+              "label": "community",
+              "logo": "https://www.meetup.com/mu_static/en-US/logo--script.004ada05.svg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cat_3",
       "title": "Banks",
@@ -1666,66 +1747,7 @@
       ],
       "links": []
     },
-    {
-      "id": "cat_11",
-      "title": "Programming & Dev Tools",
-      "icon": "Code",
-       "backgroundImage":"/categories/programming&devtools.png",
-      "subcategories": [
-        {
-          "id": "subc_5",
-          "title": "Code Hosting & Collaboration",
-          "links": [
-            {
-              "id": "link_301",
-              "title": "GitHub",
-              "url": "https://github.com",
-              "description": "Code hosting, version control, and collaboration platform widely used by developers — featured in DailyLinksNepal’s developer tools directory.",
-              "label": "global",
-              "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-            },
-            {
-              "id": "link_302",
-              "title": "GitLab",
-              "url": "https://gitlab.com",
-              "description": "Repository management, CI/CD, and DevOps platform — included in DailyLinksNepal’s curated development tools section.",
-              "label": "global",
-              "logo": "https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png"
-            }
-          ]
-        },
-        {
-          "id": "subc_6",
-          "title": "APIs, Hosting & Dev Platforms",
-          "links": [
-            {
-              "id": "link_303",
-              "title": "Vercel",
-              "url": "https://vercel.com",
-              "description": "Frontend hosting for Next.js and static sites with easy deployments — found on DailyLinksNepal in the hosting and deployment category.",
-              "label": "hosting",
-              "logo": "https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"
-            },
-            {
-              "id": "link_304",
-              "title": "Netlify",
-              "url": "https://www.netlify.com",
-              "description": "Static site hosting with CI/CD and serverless functions — featured in DailyLinksNepal’s development platforms listing.",
-              "label": "hosting",
-              "logo": "https://www.netlify.com/img/press/logos/logomark.png"
-            },
-            {
-              "id": "link_305",
-              "title": "Heroku",
-              "url": "https://www.heroku.com",
-              "description": "Platform as a Service for deploying backend apps quickly — included in DailyLinksNepal’s cloud platform resources.",
-              "label": "platform",
-              "logo": "https://www.herokucdn.com/favicon.ico"
-            }
-          ]
-        }
-      ]
-    },
+ 
   
     {
       "id": "cat_13",
@@ -1757,50 +1779,7 @@
         }
       ]
     },
-    {
-      "id": "cat_14",
-      "title": "Learning & Community",
-      "icon": "BookOpen",
-        "backgroundImage":"/categories/learning&community.png",
-      "subcategories": [
-        {
-          "id": "subc_11",
-          "title": "Courses & Tutorials",
-          "links": [
-            {
-              "id": "link_701",
-              "title": "Coursera",
-              "url": "https://www.coursera.org",
-              "description": "Online courses and specializations useful for programming, AI, and business skills — featured on DailyLinksNepal for online learning resources.",
-              "label": "global",
-              "logo": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-180x180.png"
-            },
-            {
-              "id": "link_702",
-              "title": "FreeCodeCamp",
-              "url": "https://www.freecodecamp.org",
-              "description": "Free programming curriculum and projects for web and development learners — included in DailyLinksNepal’s free learning platforms directory.",
-              "label": "free",
-              "logo": "https://www.freecodecamp.org/icons/icon-512x512.png"
-            }
-          ]
-        },
-        {
-          "id": "subc_12",
-          "title": "Local Communities & Meetups",
-          "links": [
-            {
-              "id": "link_703",
-              "title": "Nepal JS / Tech Meetups (example)",
-              "url": "https://www.meetup.com/topics/javascript/Nepal/",
-              "description": "Local developer meetups and community events including JavaScript, DevOps, and AI — listed on DailyLinksNepal’s community events section.",
-              "label": "community",
-              "logo": "https://www.meetup.com/mu_static/en-US/logo--script.004ada05.svg"
-            }
-          ]
-        }
-      ]
-    },
+
     {
       "id": "cat_15",
       "title": "Tools for Businesses",

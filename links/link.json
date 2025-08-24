@@ -4,6 +4,7 @@
       "id": "cat_2",
       "title": "Government",
       "icon": "Government",
+      "backgroundImage":"/categories/goverment.png",
       "subcategories": [
         {
           "id": "subc_2",
@@ -276,6 +277,7 @@
       "id": "cat_6",
       "title": "Payments & Fintech",
       "icon": "CreditCard",
+        "backgroundImage":"/categories/payments.png",
       "subcategories": [
         {
           "id": "subc_1",
@@ -343,6 +345,7 @@
       "id": "cat_1",
       "title": "Banks",
       "icon": "Banknote",
+      "backgroundImage":"/categories/bank.png",
       "subcategories": [
         {
           "id": "subc_1",

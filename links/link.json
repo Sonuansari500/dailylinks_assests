@@ -603,6 +603,7 @@
       "id": "cat_7",
       "title": "E-commerce & Marketplaces",
       "icon": "ShoppingCart",
+      "backgroundImage":"/categories/eccomm.png",
       "subcategories": [
         {
           "id": "subc_3",
@@ -791,6 +792,7 @@
       "id": "cat_13",
       "title": "Jobs & Career",
       "icon": "Briefcase",
+       "backgroundImage":"/categories/jobs&career.png",
       "links": [
         {
           "id": "cat_13_301",
@@ -889,6 +891,7 @@
       "id": "cat_14",
       "title": "Sports & Recreation",
       "icon": "Dumbbell",
+       "backgroundImage":"/categories/sports&recrestion.png",
       "links": [
         {
       "id": "cat_14_301",

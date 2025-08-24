@@ -10,20 +10,7 @@
           "id": "subc_2",
           "title": "Education",
           "links": [
-            {
-              "id": "cat_201",
-              "title": "National Examination Board (NEB)",
-              "url": "https://www.neb.gov.np",
-              "description": "Governing body for school level examinations in Nepal — listed on DailyLinksNepal in the organized education resources category.",
-              "logo": "https://www.educatenepal.com/uploads/article/1502018158neb-mlogo.jpg"
-            },
-            {
-              "id": "cat_202",
-              "title": "Secondary Education Examination (SEE)",
-              "url": "https://see.ntc.net.np",
-              "description": "Official portal for SEE (Class 10) examination results — featured on DailyLinksNepal for quick access to academic records.",
-              "logo": "https://englishexamnepal.com/wp-content/uploads/2024/05/Secondary-Education-Examination.png"
-            },
+            
             {
               "id": "cat_203",
               "title": "Curriculum Development Center",

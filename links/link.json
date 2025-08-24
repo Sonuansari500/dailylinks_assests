@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "id": "cat_2",
+      "id": "cat_1",
       "title": "Government",
       "icon": "Government",
       "backgroundImage":"/categories/goverment.png",
@@ -274,7 +274,7 @@
       "links": []
     },
     {
-      "id": "cat_6",
+      "id": "cat_2",
       "title": "Payments & Fintech",
       "icon": "CreditCard",
         "backgroundImage":"/categories/payments.png",
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "id": "cat_1",
+      "id": "cat_3",
       "title": "Banks",
       "icon": "Banknote",
       "backgroundImage":"/categories/bank.png",
@@ -600,7 +600,7 @@
       "links": []
     },
     {
-      "id": "cat_7",
+      "id": "cat_4",
       "title": "E-commerce & Marketplaces",
       "icon": "ShoppingCart",
       "backgroundImage":"/categories/eccomm.png",
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "id": "cat_13",
+      "id": "cat_5",
       "title": "Jobs & Career",
       "icon": "Briefcase",
        "backgroundImage":"/categories/jobs&career.png",
@@ -888,7 +888,7 @@
       ]
     },
     {
-      "id": "cat_14",
+      "id": "cat_6",
       "title": "Sports & Recreation",
       "icon": "Dumbbell",
        "backgroundImage":"/categories/sports&recrestion.png",
@@ -959,9 +959,10 @@
       ]
     },
     {
-      "id": "cat_15",
+      "id": "cat_7",
       "title": "Weather & Natural Disaster Updates",
       "icon": "CloudSun",
+      "backgroundImage":"/categories/weather&naturaldisaster.png",
       "links": [
         {
           "id": "cat_15_301",
@@ -973,9 +974,10 @@
       ]
     },
     {
-      "id": "cat_3",
+      "id": "cat_8",
       "title": "News & Media",
       "icon": "Newspaper",
+      "backgroundImage":"/categories/news&media.png",
       "subcategories": [
         {
           "id": "subc_11",
@@ -1147,9 +1149,10 @@
       "links": []
     },
     {
-      "id": "cat_4",
+      "id": "cat_9",
       "title": "Utilities",
       "icon": "Plug",
+      "backgroundImage":"/categories/utilities.png",
       "subcategories": [
         {
           "id": "subc_13",
@@ -1252,9 +1255,10 @@
       "links": []
     },
     {
-      "id": "cat_5",
+      "id": "cat_10",
       "title": "Travel & Transport",
       "icon": "Bus",
+       "backgroundImage":"/categories/travel&transport.png",
       "subcategories": [
         {
           "id": "subc_14",
@@ -1389,9 +1393,10 @@
       "links": []
     },
     {
-      "id": "cat_8",
+      "id": "cat_11",
       "title": "Programming & Dev Tools",
       "icon": "Code",
+       "backgroundImage":"/categories/programming&devtools.png",
       "subcategories": [
         {
           "id": "subc_5",
@@ -1448,9 +1453,10 @@
       ]
     },
     {
-      "id": "cat_9",
+      "id": "cat_12",
       "title": "AI Tools & Services",
       "icon": "Cpu",
+        "backgroundImage":"/categories/aitools.png",
       "subcategories": [
         {
           "id": "subc_7",
@@ -1499,9 +1505,10 @@
       ]
     },
     {
-      "id": "cat_11",
+      "id": "cat_13",
       "title": "Government & Citizen Services",
       "icon": "Globe",
+      "backgroundImage":"/categories/goverment&citizenservice.png",
       "subcategories": [
         {
           "id": "subc_10",
@@ -1528,9 +1535,10 @@
       ]
     },
     {
-      "id": "cat_12",
+      "id": "cat_14",
       "title": "Learning & Community",
       "icon": "BookOpen",
+        "backgroundImage":"/categories/learning&community.png",
       "subcategories": [
         {
           "id": "subc_11",
@@ -1571,9 +1579,10 @@
       ]
     },
     {
-      "id": "cat_13",
+      "id": "cat_15",
       "title": "Tools for Businesses",
       "icon": "Server",
+          "backgroundImage":"/categories/toolsforbusiness.png",
       "subcategories": [
         {
           "id": "subc_13",

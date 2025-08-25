@@ -4,7 +4,7 @@
       "id": "cat_1",
       "title": "Government",
       "icon": "Government",
-      "backgroundImage": "/categories/goverment.png",
+      "backgroundImage": "/categories/governments.png",
       "subcategories": [
         {
           "id": "subc_2",
@@ -339,7 +339,7 @@
       "id": "cat_12",
       "title": "AI Tools & Services",
       "icon": "Cpu",
-      "backgroundImage": "/categories/aitools.png",
+      "backgroundImage": "/categories/AI Tools & Services.png",
       "subcategories": [
         {
           "id": "subc_7",
@@ -609,7 +609,7 @@
       "id": "cat_11",
       "title": "Programming & Dev Tools",
       "icon": "Code",
-      "backgroundImage": "/categories/programming&devtools.png",
+      "backgroundImage": "/categories/Programming & Dev Tools.png",
       "subcategories": [
         {
           "id": "subc_5",
@@ -669,7 +669,7 @@
       "id": "cat_14",
       "title": "Learning & Community",
       "icon": "BookOpen",
-      "backgroundImage": "/categories/learning&community.png",
+      "backgroundImage": "/categories/Learning & Community.png",
       "subcategories": [
         {
           "id": "subc_11",
@@ -713,7 +713,7 @@
       "id": "cat_3",
       "title": "Banks",
       "icon": "Banknote",
-      "backgroundImage": "/categories/bank.png",
+      "backgroundImage": "/categories/banks.png",
       "subcategories": [
         {
           "id": "subc_1",
@@ -971,7 +971,7 @@
       "id": "cat_4",
       "title": "E-commerce & Marketplaces",
       "icon": "ShoppingCart",
-      "backgroundImage": "/categories/eccomm.png",
+      "backgroundImage": "/categories/e-commerce.png",
       "subcategories": [
         {
           "id": "subc_3",
@@ -1151,7 +1151,7 @@
       "id": "cat_5",
       "title": "Jobs & Career",
       "icon": "Briefcase",
-      "backgroundImage": "/categories/jobs&career.png",
+      "backgroundImage": "/categories/job & career.png",
       "links": [
         {
           "id": "cat_13_301",
@@ -1250,7 +1250,7 @@
       "id": "cat_6",
       "title": "Sports & Recreation",
       "icon": "Dumbbell",
-      "backgroundImage": "/categories/sports&recrestion.png",
+      "backgroundImage": "/categories/sports.png",
       "links": [
         {
           "id": "cat_14_301",
@@ -1321,7 +1321,7 @@
       "id": "cat_7",
       "title": "Weather & Natural Disaster Updates",
       "icon": "CloudSun",
-      "backgroundImage": "/categories/weather&naturaldisaster.png",
+      "backgroundImage": "/categories/weather & natural disastar.png",
       "links": [
         {
           "id": "cat_15_301",
@@ -1336,7 +1336,7 @@
       "id": "cat_8",
       "title": "News & Media",
       "icon": "Newspaper",
-      "backgroundImage": "/categories/news&media.png",
+      "backgroundImage": "/categories/news and media.png",
       "subcategories": [
         {
           "id": "subc_11",
@@ -1617,7 +1617,7 @@
       "id": "cat_10",
       "title": "Travel & Transport",
       "icon": "Bus",
-      "backgroundImage": "/categories/travel&transport.png",
+      "backgroundImage": "/categories/Travels and transportation.png",
       "subcategories": [
         {
           "id": "subc_14",
@@ -1755,7 +1755,7 @@
       "id": "cat_13",
       "title": "Government & Citizen Services",
       "icon": "Globe",
-      "backgroundImage": "/categories/goverment&citizenservice.png",
+      "backgroundImage": "/categories/Government & Citizen Services.png",
       "subcategories": [
         {
           "id": "subc_10",
@@ -1785,7 +1785,7 @@
       "id": "cat_15",
       "title": "Tools for Businesses",
       "icon": "Server",
-      "backgroundImage": "/categories/toolsforbusiness.png",
+      "backgroundImage": "/categories/Tools for Businesses.png",
       "subcategories": [
         {
           "id": "subc_13",

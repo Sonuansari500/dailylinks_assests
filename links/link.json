@@ -285,7 +285,7 @@
               "label": "popular",
               "logo": "https://www.enepsters.com/wp-content/uploads/2018/08/khalti-des.jpg"
             },
-             {
+            {
               "id": "link_105",
               "title": "Fonepay",
               "url": "https://fonepay.com",
@@ -2037,99 +2037,14 @@
                 "01-4427833",
                 "102"
               ],
-              "location": "Ghattekulo Marg",
+              "location": "Ghattekulo",
               "district": "Kathmandu",
-              "serviceType": "Government"
+              "serviceType": "National"
             },
             {
               "id": "serv_1_2",
-              "name": "B. P. Smriti Hospital",
-              "phone": [
-                "9841447710"
-              ],
-              "location": "Basundhara",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_3",
-              "name": "Bishal Bazar Ambulance Sewa",
-              "phone": [
-                "01-4244121"
-              ],
-              "location": "Bishalbazar",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_4",
-              "name": "CIWEC Hospital",
-              "phone": [
-                "97411479583",
-                "9841614037",
-                "01-4435232"
-              ],
-              "location": "Lazimpat",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_5",
-              "name": "Grande International Hospital",
-              "phone": [
-                "9801202545",
-                "01-5159266"
-              ],
-              "location": "Dhapashi",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_6",
-              "name": "HAMS Hospital",
-              "phone": [
-                "01-4786111"
-              ],
-              "location": "Dhumbarai",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_7",
-              "name": "Kathmandu Medical & Teaching Hospital",
-              "phone": [
-                "9843203119"
-              ],
-              "location": "Sinamangal",
-              "district": "Kathmandu",
-              "serviceType": "Teaching"
-            },
-            {
-              "id": "serv_1_8",
-              "name": "Kirtipur Ambulance",
-              "phone": [
-                "01-4330200"
-              ],
-              "location": "Kirtipur",
-              "district": "Kathmandu",
-              "serviceType": "Municipal"
-            },
-            {
-              "id": "serv_1_9",
-              "name": "Norvic International Hospital",
-              "phone": [
-                "9803222222",
-                "9801111111"
-              ],
-              "location": "Thapathali",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_10",
               "name": "Vayodha Hospital",
               "phone": [
-                "9802019561",
                 "01-4281666",
                 "01-2111333"
               ],
@@ -2138,33 +2053,12 @@
               "serviceType": "Private"
             },
             {
-              "id": "serv_1_11",
+              "id": "serv_1_3",
               "name": "Vinayak Hospital",
               "phone": [
-                "9803452545",
                 "01-4383152"
               ],
-              "location": "Gongabu Chowk",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_12",
-              "name": "Green City Hospital",
-              "phone": [
-                "01-4981133"
-              ],
-              "location": "Basundhara",
-              "district": "Kathmandu",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_1_13",
-              "name": "24x7 Ambulance Service",
-              "phone": [
-                "9840186344"
-              ],
-              "location": "Basundhara",
+              "location": "Gongabu",
               "district": "Kathmandu",
               "serviceType": "Private"
             }
@@ -2176,45 +2070,13 @@
           "services": [
             {
               "id": "serv_2_1",
-              "name": "Ambulance Lalitpur Municipality",
+              "name": "Patan Hospital",
               "phone": [
-                "9841202641",
-                "01-5527003"
+                "01-5522295"
               ],
-              "location": "Pulchowk",
+              "location": "Lagankhel",
               "district": "Lalitpur",
-              "serviceType": "Municipal"
-            },
-            {
-              "id": "serv_2_2",
-              "name": "Nepal Cancer Hospital & Research Center Pvt.Ltd",
-              "phone": [
-                "01-5251312",
-                "01-5251498"
-              ],
-              "location": "Harisiddhi",
-              "district": "Lalitpur",
-              "serviceType": "Specialized"
-            },
-            {
-              "id": "serv_2_3",
-              "name": "B and B Hospital",
-              "phone": [
-                "01-5531933"
-              ],
-              "location": "Gwarko",
-              "district": "Lalitpur",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_2_4",
-              "name": "Khokana Ambulance",
-              "phone": [
-                "9803593123"
-              ],
-              "location": "Khokana",
-              "district": "Lalitpur",
-              "serviceType": "Community"
+              "serviceType": "Government"
             }
           ]
         },
@@ -2224,185 +2086,244 @@
           "services": [
             {
               "id": "serv_3_1",
-              "name": "Dr. Iwamura Memorial Hospital",
-              "phone": [
-                "9860025333"
-              ],
-              "location": "Sallaghari",
-              "district": "Bhaktapur",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_3_2",
-              "name": "NKFMH Ambulance",
-              "phone": [
-                "9841257048"
-              ],
-              "location": "Thimi",
-              "district": "Bhaktapur",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_3_3",
               "name": "Siddhi Memorial Hospital",
               "phone": [
                 "9741204991"
               ],
               "location": "Bhimsensthan",
               "district": "Bhaktapur",
-              "serviceType": "Private"
+              "serviceType": "NGO"
             },
             {
-              "id": "serv_3_4",
-              "name": "Thimi Ambulance",
+              "id": "serv_3_2",
+              "name": "Khwopa Hospital",
               "phone": [
-                "01-6631000"
+                "01-5122098"
               ],
-              "location": "Thimi",
+              "location": "Dekocha",
               "district": "Bhaktapur",
-              "serviceType": "Municipal"
-            },
-            {
-              "id": "serv_3_5",
-              "name": "Madhyapur Thimi Nagarpalika (corona especially)",
-              "phone": [
-                "9841257048"
-              ],
-              "location": "Thimi",
-              "district": "Bhaktapur",
-              "serviceType": "Municipal"
+              "serviceType": "Municipality"
             }
           ]
         },
         {
           "id": "dist_4",
-          "district": "Jhapa",
+          "district": "Kavrepalanchok",
           "services": [
             {
               "id": "serv_4_1",
-              "name": "Akhil Nepal Chiya Majdur Sangh",
+              "name": "Dhulikhel Hospital",
               "phone": [
-                "9814952000"
+                "011-490497"
               ],
-              "location": "Jhapa",
-              "district": "Jhapa",
-              "serviceType": "Community"
-            },
-            {
-              "id": "serv_4_2",
-              "name": "laxmi run data smriti sewa samaj",
-              "phone": [
-                "9804910985"
-              ],
-              "location": "Birtamod",
-              "district": "Jhapa",
-              "serviceType": "Community"
-            },
-            {
-              "id": "serv_4_3",
-              "name": "Bhakti Parsad Smiriti Ambulance",
-              "phone": [
-                "9814910410",
-                "9842633974"
-              ],
-              "location": "Jhapa",
-              "district": "Jhapa",
-              "serviceType": "Community"
-            },
-            {
-              "id": "serv_4_4",
-              "name": "Nepal Red Cross Society(Ghauladuwa)",
-              "phone": [
-                "9815980500"
-              ],
-              "location": "Jhapa",
-              "district": "Jhapa",
-              "serviceType": "Red Cross"
-            },
-            {
-              "id": "serv_4_5",
-              "name": "Jhapa Ambulance Association",
-              "phone": [
-                "9842789870",
-                "9807976555"
-              ],
-              "location": "Jhapa",
-              "district": "Jhapa",
-              "serviceType": "Association"
+              "location": "Dhulikhel",
+              "district": "Kavrepalanchok",
+              "serviceType": "Government"
             }
           ]
         },
         {
           "id": "dist_5",
-          "district": "Kaski",
+          "district": "Chitwan",
           "services": [
             {
               "id": "serv_5_1",
-              "name": "Ambulance Service Siddhartha Club",
+              "name": "Bharatpur Hospital",
               "phone": [
-                "061530200",
-                "061521433"
+                "056-520137"
               ],
-              "location": "Siddhartha Chowk, Pokhara",
-              "district": "Kaski",
-              "serviceType": "Club"
+              "location": "Bharatpur",
+              "district": "Chitwan",
+              "serviceType": "Government"
             },
             {
               "id": "serv_5_2",
-              "name": "Model Hospital",
+              "name": "Chitwan Medical College",
               "phone": [
-                "9846311804"
+                "056-592367"
               ],
-              "location": "Kaski",
-              "district": "Kaski",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_5_3",
-              "name": "Siddhartha Club Kaski",
-              "phone": [
-                "061-530200",
-                "9804127646"
-              ],
-              "location": "Pokhara",
-              "district": "Kaski",
-              "serviceType": "Club"
-            },
-            {
-              "id": "serv_5_4",
-              "name": "Model Hospital Kaski",
-              "phone": [
-                "9846311804"
-              ],
-              "location": "Pokhara",
-              "district": "Kaski",
+              "location": "Bharatpur",
+              "district": "Chitwan",
               "serviceType": "Private"
             }
           ]
         },
         {
           "id": "dist_6",
-          "district": "Chitwan",
+          "district": "Dhading",
           "services": [
             {
               "id": "serv_6_1",
-              "name": "Sanjivini Ayurvedic Prakritik Chikitsaylaya",
+              "name": "Dhading District Hospital",
               "phone": [
-                "9848554800"
+                "010-520144"
               ],
-              "location": "Chitwan",
-              "district": "Chitwan",
-              "serviceType": "Ayurvedic"
+              "location": "Dhading Besi",
+              "district": "Dhading",
+              "serviceType": "Government"
+            }
+          ]
+        },
+        {
+          "id": "dist_7",
+          "district": "Sindhupalchok",
+          "services": [
+            {
+              "id": "serv_7_1",
+              "name": "Chautara Hospital",
+              "phone": [
+                "011-620145"
+              ],
+              "location": "Chautara",
+              "district": "Sindhupalchok",
+              "serviceType": "Government"
+            }
+          ]
+        },
+        {
+          "id": "dist_8",
+          "district": "Rasuwa",
+          "services": [
+            {
+              "id": "serv_8_1",
+              "name": "Rasuwa District Hospital",
+              "phone": [
+                "010-540122"
+              ],
+              "location": "Dhunche",
+              "district": "Rasuwa",
+              "serviceType": "Government"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Hospital",
+      "contacts": [
+        {
+          "id": "dist_1",
+          "district": "Kathmandu",
+          "services": [
+            {
+              "id": "serv_1_1",
+              "name": "Tribhuvan University Teaching Hospital",
+              "phone": [
+                "01-4412303"
+              ],
+              "location": "Maharajgunj, Kathmandu",
+              "district": "Kathmandu",
+              "serviceType": "Government"
             },
             {
-              "id": "serv_6_2",
-              "name": "दिगो ग्रामीण स्वास्थ्य सेवा समाज नेपाल",
+              "id": "serv_1_2",
+              "name": "Grande International Hospital",
               "phone": [
-                "984-5108796"
+                "01-5159266"
               ],
-              "location": "Nahar Chowk Bus Stop, Bharatpur",
+              "location": "Dhapasi, Kathmandu",
+              "district": "Kathmandu",
+              "serviceType": "Private"
+            },
+            {
+              "id": "serv_1_3",
+              "name": "Norvic International Hospital",
+              "phone": [
+                "01-5970032"
+              ],
+              "location": "Thapathali, Kathmandu",
+              "district": "Kathmandu",
+              "serviceType": "Private"
+            }
+          ]
+        },
+        {
+          "id": "dist_2",
+          "district": "Lalitpur",
+          "services": [
+            {
+              "id": "serv_2_1",
+              "name": "Patan Hospital",
+              "phone": [
+                "01-5522295"
+              ],
+              "location": "Lagankhel, Lalitpur",
+              "district": "Lalitpur",
+              "serviceType": "Government"
+            }
+          ]
+        },
+        {
+          "id": "dist_3",
+          "district": "Bhaktapur",
+          "services": [
+            {
+              "id": "serv_3_1",
+              "name": "Siddhi Memorial Hospital",
+              "phone": [
+                "01-6612945"
+              ],
+              "location": "Bhimsensthan, Bhaktapur",
+              "district": "Bhaktapur",
+              "serviceType": "NGO"
+            }
+          ]
+        },
+        {
+          "id": "dist_4",
+          "district": "Chitwan",
+          "services": [
+            {
+              "id": "serv_4_1",
+              "name": "Bharatpur Hospital",
+              "phone": [
+                "056-520137"
+              ],
+              "location": "Bharatpur, Chitwan",
               "district": "Chitwan",
+              "serviceType": "Government"
+            },
+            {
+              "id": "serv_4_2",
+              "name": "Chitwan Medical College",
+              "phone": [
+                "056-592367"
+              ],
+              "location": "Bharatpur, Chitwan",
+              "district": "Chitwan",
+              "serviceType": "Private"
+            }
+          ]
+        },
+        {
+          "id": "dist_5",
+          "district": "Kavrepalanchok",
+          "services": [
+            {
+              "id": "serv_5_1",
+              "name": "Dhulikhel Hospital",
+              "phone": [
+                "011-490497"
+              ],
+              "location": "Dhulikhel, Kavre",
+              "district": "Kavrepalanchok",
               "serviceType": "Community"
+            }
+          ]
+        },
+        {
+          "id": "dist_6",
+          "district": "Palpa",
+          "services": [
+            {
+              "id": "serv_6_1",
+              "name": "United Mission Hospital Tansen",
+              "phone": [
+                "075-520111"
+              ],
+              "location": "Tansen, Palpa",
+              "district": "Palpa",
+              "serviceType": "Mission"
             }
           ]
         },
@@ -2412,289 +2333,159 @@
           "services": [
             {
               "id": "serv_7_1",
-              "name": "Chetansheel",
+              "name": "Nobel Medical College",
               "phone": [
-                "9842266231"
+                "021-460736"
               ],
-              "location": "Morang",
+              "location": "Biratnagar, Morang",
               "district": "Morang",
-              "serviceType": "Community"
+              "serviceType": "Private"
             },
             {
               "id": "serv_7_2",
-              "name": "Golden Hospital Pvt.Ltd.",
+              "name": "Koshi Hospital",
               "phone": [
-                "9816391881"
+                "021-528435"
               ],
-              "location": "Morang",
+              "location": "Biratnagar, Morang",
               "district": "Morang",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_7_3",
-              "name": "Morang Hospital (Santosh Rai)",
-              "phone": [
-                "9805306779"
-              ],
-              "location": "Patharishanischare-1",
-              "district": "Morang",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_7_4",
-              "name": "Life Guard Hospital Pvt.Ltd.",
-              "phone": [
-                "9819088987",
-                "021-463177"
-              ],
-              "location": "Bargachhi, Biratnagar",
-              "district": "Morang",
-              "serviceType": "Private"
-            },
-            {
-              "id": "serv_7_5",
-              "name": "MORANG HOSPITAL PVT. LTD",
-              "phone": [
-                "9805306779",
-                "021-555343",
-                "9842043748"
-              ],
-              "location": "Patharishanischare",
-              "district": "Morang",
-              "serviceType": "Private"
+              "serviceType": "Government"
             }
           ]
         },
         {
           "id": "dist_8",
-          "district": "Banke",
+          "district": "Jhapa",
           "services": [
             {
               "id": "serv_8_1",
-              "name": "Red Cross Ambulance, Kohalpur",
+              "name": "B&C Medical College Teaching Hospital",
               "phone": [
-                "81541300"
+                "023-456789"
               ],
-              "location": "Kohalpur",
-              "district": "Banke",
-              "serviceType": "Red Cross"
-            },
-            {
-              "id": "serv_8_2",
-              "name": "Shahid Prathisthan Branch Office",
-              "phone": [
-                "9858080140"
-              ],
-              "location": "Kolhapur",
-              "district": "Banke",
-              "serviceType": "Community"
-            },
-            {
-              "id": "serv_8_3",
-              "name": "Red Cross Ambulance, Banke",
-              "phone": [
-                "081-520104"
-              ],
-              "location": "Nepalgunj",
-              "district": "Banke",
-              "serviceType": "Red Cross"
-            }
-          ]
-        },
-        {
-          "id": "dist_9",
-          "district": "Dang",
-          "services": [
-            {
-              "id": "serv_9_1",
-              "name": "Tulsi Hospital Pvt. Ltd.",
-              "phone": [
-                "0-82523125",
-                "9809872400"
-              ],
-              "location": "Tulsipur",
-              "district": "Dang",
+              "location": "Birtamode, Jhapa",
+              "district": "Jhapa",
               "serviceType": "Private"
             }
           ]
         },
         {
+          "id": "dist_9",
+          "district": "Banke",
+          "services": [
+            {
+              "id": "serv_9_1",
+              "name": "Bheri Zonal Hospital",
+              "phone": [
+                "081-520178"
+              ],
+              "location": "Nepalgunj, Banke",
+              "district": "Banke",
+              "serviceType": "Government"
+            }
+          ]
+        },
+        {
           "id": "dist_10",
-          "district": "Dhading",
+          "district": "Kaski",
           "services": [
             {
               "id": "serv_10_1",
-              "name": "krishwor Bhadur Simriti Sewa",
+              "name": "Gandaki Medical College Teaching Hospital",
               "phone": [
-                "9841898941",
-                "9841639732"
+                "061-538595"
               ],
-              "location": "Dhading",
-              "district": "Dhading",
-              "serviceType": "Community"
+              "location": "Pokhara, Kaski",
+              "district": "Kaski",
+              "serviceType": "Private"
             },
             {
               "id": "serv_10_2",
-              "name": "Nepal Red Cross society Dhading",
+              "name": "Western Regional Hospital (Pokhara Academy of Health Sciences)",
               "phone": [
-                "9849862264"
+                "061-521092"
               ],
-              "location": "Dhading",
-              "district": "Dhading",
-              "serviceType": "Red Cross"
-            },
-            {
-              "id": "serv_10_3",
-              "name": "Jila Aspatal Nilkantha Dhading besi",
-              "phone": [
-                "9841523523",
-                "9851122670"
-              ],
-              "location": "Dhading",
-              "district": "Dhading",
+              "location": "Pokhara, Kaski",
+              "district": "Kaski",
               "serviceType": "Government"
             }
           ]
         },
         {
           "id": "dist_11",
-          "district": "Nuwakot",
+          "district": "Dang",
           "services": [
             {
               "id": "serv_11_1",
-              "name": "District Redcross, Bidur",
+              "name": "Rapti Sub-Regional Hospital",
               "phone": [
-                "98434333030",
-                "010-560070"
+                "082-560123"
               ],
-              "location": "Nuwakot",
-              "district": "Nuwakot",
-              "serviceType": "Red Cross"
-            },
-            {
-              "id": "serv_11_2",
-              "name": "Padmakumari Smriti Pratisthan",
-              "phone": [
-                "9855059500"
-              ],
-              "location": "Nuwakot",
-              "district": "Nuwakot",
-              "serviceType": "Community"
-            }
-          ]
-        },
-        {
-          "id": "dist_12",
-          "district": "Illam",
-          "services": [
-            {
-              "id": "serv_12_1",
-              "name": "Red Cross Ambulance",
-              "phone": [
-                "9842627333"
-              ],
-              "location": "Illam",
-              "district": "Illam",
-              "serviceType": "Red Cross"
-            }
-          ]
-        },
-        {
-          "id": "dist_13",
-          "district": "Siraha",
-          "services": [
-            {
-              "id": "serv_13_1",
-              "name": "Jit Thakur Poly Clinic Pvt. Ltd.",
-              "phone": [
-                "9852832689",
-                "9818746233",
-                "9852834515"
-              ],
-              "location": "Hanuman Nagar, Bhaluwahi",
-              "district": "Siraha",
-              "serviceType": "Private"
-            }
-          ]
-        },
-        {
-          "id": "dist_14",
-          "district": "Dhankuta",
-          "services": [
-            {
-              "id": "serv_14_1",
-              "name": "Dhankuta Hospital Ambulance",
-              "phone": [
-                "9842060752",
-                "9852050678"
-              ],
-              "location": "Dhankuta",
-              "district": "Dhankuta",
+              "location": "Ghorahi, Dang",
+              "district": "Dang",
               "serviceType": "Government"
             }
           ]
         },
         {
-          "id": "dist_15",
-          "district": "Rautahat",
+          "id": "dist_12",
+          "district": "Rupandehi",
           "services": [
             {
-              "id": "serv_15_1",
-              "name": "Rautahat Ambulance Service",
+              "id": "serv_12_1",
+              "name": "Lumbini Provincial Hospital",
               "phone": [
-                "9807180104"
+                "071-520178"
               ],
-              "location": "Sonarniya Bazar, Maulapur",
-              "district": "Rautahat",
-              "serviceType": "Community"
+              "location": "Butwal, Rupandehi",
+              "district": "Rupandehi",
+              "serviceType": "Government"
+            },
+            {
+              "id": "serv_12_2",
+              "name": "Universal College of Medical Sciences Teaching Hospital",
+              "phone": [
+                "071-526641"
+              ],
+              "location": "Bhairahawa, Rupandehi",
+              "district": "Rupandehi",
+              "serviceType": "Private"
             }
           ]
         },
         {
-          "id": "dist_16",
-          "district": "Parsa",
+          "id": "dist_13",
+          "district": "Surkhet",
           "services": [
             {
-              "id": "serv_16_1",
-              "name": "Birgunj Ambulance",
+              "id": "serv_13_1",
+              "name": "Mid-Western Regional Hospital",
               "phone": [
-                "980-7215390"
+                "083-521192"
               ],
-              "location": "Birgunj",
-              "district": "Parsa",
-              "serviceType": "Community"
+              "location": "Birendranagar, Surkhet",
+              "district": "Surkhet",
+              "serviceType": "Government"
             }
           ]
         },
         {
-          "id": "dist_17",
-          "district": "Dharan",
+          "id": "dist_14",
+          "district": "Doti",
           "services": [
             {
-              "id": "serv_17_1",
-              "name": "Dharan Ambulance Parking Ari",
+              "id": "serv_14_1",
+              "name": "Doti District Hospital",
               "phone": [
-                "982-7383283"
+                "094-440123"
               ],
-              "location": "Dharan",
-              "district": "Dharan",
-              "serviceType": "Community"
+              "location": "Dipayal, Doti",
+              "district": "Doti",
+              "serviceType": "Government"
             }
           ]
         }
       ]
-    },
-    {
-      "type": "Police",
-      "contacts": []
-    },
-    {
-      "type": "Red Cross",
-      "contacts": []
-    },
-    {
-      "type": "Hospital",
-      "contacts": []
     }
   ],
   "notes": [

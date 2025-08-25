@@ -4,13 +4,12 @@
       "id": "cat_1",
       "title": "Government",
       "icon": "Government",
-      "backgroundImage":"/categories/goverment.png",
+      "backgroundImage": "/categories/goverment.png",
       "subcategories": [
         {
           "id": "subc_2",
           "title": "Education",
           "links": [
-            
             {
               "id": "cat_203",
               "title": "Curriculum Development Center",
@@ -264,7 +263,7 @@
       "id": "cat_2",
       "title": "Payments & Fintech",
       "icon": "CreditCard",
-        "backgroundImage":"/categories/payments.png",
+      "backgroundImage": "/categories/payments.png",
       "subcategories": [
         {
           "id": "subc_1",
@@ -285,6 +284,14 @@
               "description": "Wallet and payment gateway used for utilities, e-commerce, and QR payments — listed on DailyLinksNepal under mobile wallet services.",
               "label": "popular",
               "logo": "https://www.enepsters.com/wp-content/uploads/2018/08/khalti-des.jpg"
+            },
+             {
+              "id": "link_105",
+              "title": "Fonepay",
+              "url": "https://fonepay.com",
+              "description": "Wallet and payment gateway used for utilities, e-commerce, and QR payments — listed on DailyLinksNepal under mobile wallet services.",
+              "label": "popular",
+              "logo": "https://fonepay.com/images/logo-white.png"
             },
             {
               "id": "link_103",
@@ -328,283 +335,281 @@
         }
       ]
     },
-  {
-  "id": "cat_12",
-  "title": "AI Tools & Services",
-  "icon": "Cpu",
-  "backgroundImage": "/categories/aitools.png",
-  "subcategories": [
     {
-      "id": "subc_7",
-      "title": "Generative AI & Assistants",
-      "links": [
+      "id": "cat_12",
+      "title": "AI Tools & Services",
+      "icon": "Cpu",
+      "backgroundImage": "/categories/aitools.png",
+      "subcategories": [
         {
-          "id": "link_401",
-          "title": "OpenAI (ChatGPT / API)",
-          "url": "https://openai.com",
-          "description": "Large language models, APIs, and developer docs for building chatbots and AI features.",
-          "label": "global",
-          "logo": "https://static.vecteezy.com/system/resources/previews/029/463/353/non_2x/chatgpt-logo-open-ai-logotype-ai-chatbot-chat-gpt-app-ai-artificial-intelligence-chatbot-services-logo-company-stock-free-vector.jpg"
+          "id": "subc_7",
+          "title": "Generative AI & Assistants",
+          "links": [
+            {
+              "id": "link_401",
+              "title": "OpenAI (ChatGPT / API)",
+              "url": "https://openai.com",
+              "description": "Large language models, APIs, and developer docs for building chatbots and AI features.",
+              "label": "global",
+              "logo": "https://static.vecteezy.com/system/resources/previews/029/463/353/non_2x/chatgpt-logo-open-ai-logotype-ai-chatbot-chat-gpt-app-ai-artificial-intelligence-chatbot-services-logo-company-stock-free-vector.jpg"
+            },
+            {
+              "id": "link_402",
+              "title": "Google Cloud AI / Vertex AI",
+              "url": "https://cloud.google.com/vertex-ai",
+              "description": "Managed ML platform for training and deploying models at scale.",
+              "label": "cloud",
+              "logo": "https://cdn.prod.website-files.com/5da60b8bfc98fdf11111b791/671776aafb36a9c2cbc908a0_669e7fe5698e0097ad95e79d_What%2520is%2520Vertex%2520AI_.png"
+            },
+            {
+              "id": "link_404",
+              "title": "Anthropic AI (Claude)",
+              "url": "https://www.anthropic.com",
+              "description": "AI safety and research company, developing reliable and steerable AI systems.",
+              "label": "research",
+              "logo": "https://images.indianexpress.com/2025/02/Anthropic-new-AI-model.jpg"
+            },
+            {
+              "id": "link_407",
+              "title": "Cohere",
+              "url": "https://cohere.ai",
+              "description": "Provider of large language models accessible via API for generating and understanding text.",
+              "label": "api",
+              "logo": "https://cohere.com/logo.svg"
+            },
+            {
+              "id": "link_408",
+              "title": "AI21 Labs",
+              "url": "https://www.ai21.com",
+              "description": "Developer of advanced language models and tools to assist writers and developers.",
+              "label": "nlp",
+              "logo": "https://www.ai21.com/wp-content/uploads/2024/11/ai21-logo.svg"
+            }
+          ]
         },
         {
-          "id": "link_402",
-          "title": "Google Cloud AI / Vertex AI",
-          "url": "https://cloud.google.com/vertex-ai",
-          "description": "Managed ML platform for training and deploying models at scale.",
-          "label": "cloud",
-          "logo": "https://cdn.prod.website-files.com/5da60b8bfc98fdf11111b791/671776aafb36a9c2cbc908a0_669e7fe5698e0097ad95e79d_What%2520is%2520Vertex%2520AI_.png"
+          "id": "subc_8",
+          "title": "Content Creation & Writing",
+          "links": [
+            {
+              "id": "link_409",
+              "title": "Jasper AI",
+              "url": "https://jasper.ai",
+              "description": "AI-powered copywriting and marketing content generation.",
+              "label": "content",
+              "logo": "https://www.pcguide.com/wp-content/uploads/2023/04/Jasper-AI-review.jpeg"
+            },
+            {
+              "id": "link_410",
+              "title": "Rytr",
+              "url": "https://rytr.me",
+              "description": "AI writing assistant with multiple languages and tones.",
+              "label": "writing",
+              "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1VQ_r2ojB1g-8Q4iat43ZwbvXaDhr_3PVA&s"
+            },
+            {
+              "id": "link_411",
+              "title": "Grammarly",
+              "url": "https://grammarly.com",
+              "description": "AI-powered writing assistant for grammar and style correction.",
+              "label": "writing",
+              "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSbHX8wFNJlGjrRsa6JKpspEf5qAt4mtKiw&s"
+            },
+            {
+              "id": "link_412",
+              "title": "Sudowrite",
+              "url": "https://www.sudowrite.com",
+              "description": "Creative writing assistant using AI.",
+              "label": "writing",
+              "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWIqcXo5PBbBqgj1gok0aNil2Zrp9X-WQJg&s"
+            }
+          ]
         },
-      
         {
-          "id": "link_404",
-          "title": "Anthropic AI (Claude)",
-          "url": "https://www.anthropic.com",
-          "description": "AI safety and research company, developing reliable and steerable AI systems.",
-          "label": "research",
-          "logo": "https://images.indianexpress.com/2025/02/Anthropic-new-AI-model.jpg"
+          "id": "subc_9",
+          "title": "Video & Image Generation",
+          "links": [
+            {
+              "id": "link_413",
+              "title": "Synthesia",
+              "url": "https://www.synthesia.io",
+              "description": "AI video generation platform with avatars in multiple languages.",
+              "label": "video",
+              "logo": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg"
+            },
+            {
+              "id": "link_414",
+              "title": "Midjourney",
+              "url": "https://midjourney.com",
+              "description": "AI-powered image generation from textual prompts.",
+              "label": "image",
+              "logo": "https://cdn.midjourney.com/logo.svg"
+            },
+            {
+              "id": "link_415",
+              "title": "DALL·E",
+              "url": "https://openai.com/dall-e",
+              "description": "OpenAI's AI model generating images from text prompts.",
+              "label": "image",
+              "logo": "https://openai.com/content/images/2022/05/dall-e-logo.png"
+            },
+            {
+              "id": "link_416",
+              "title": "Canva Magic Studio",
+              "url": "https://www.canva.com",
+              "description": "Graphic design platform with AI-powered tools.",
+              "label": "design",
+              "logo": "https://static.canva.com/web/images/favicons/favicon-32x32.png"
+            }
+          ]
         },
-      
         {
-          "id": "link_407",
-          "title": "Cohere",
-          "url": "https://cohere.ai",
-          "description": "Provider of large language models accessible via API for generating and understanding text.",
-          "label": "api",
-          "logo": "https://cohere.com/logo.svg"
+          "id": "subc_10",
+          "title": "Marketing & Sales Automation",
+          "links": [
+            {
+              "id": "link_417",
+              "title": "HubSpot AI",
+              "url": "https://www.hubspot.com/products/cms/ai-website-generator",
+              "description": "Marketing automation and AI website builder.",
+              "label": "marketing",
+              "logo": "https://cdn2.hubspot.net/hubfs/53/hubspot-logo.svg"
+            },
+            {
+              "id": "link_418",
+              "title": "Salesforce Einstein",
+              "url": "https://www.salesforce.com/products/einstein/overview/",
+              "description": "AI-powered analytics for marketing and sales.",
+              "label": "sales",
+              "logo": "https://c1.sfdcstatic.com/business-prod/images/logo-salesforce.svg"
+            },
+            {
+              "id": "link_419",
+              "title": "Albert AI",
+              "url": "https://www.albert.ai/",
+              "description": "AI platform for digital advertising and marketing campaigns.",
+              "label": "marketing",
+              "logo": "https://www.albert.ai/wp-content/uploads/2018/11/albert-logo.svg"
+            }
+          ]
         },
         {
-          "id": "link_408",
-          "title": "AI21 Labs",
-          "url": "https://www.ai21.com",
-          "description": "Developer of advanced language models and tools to assist writers and developers.",
-          "label": "nlp",
-          "logo": "https://www.ai21.com/wp-content/uploads/2024/11/ai21-logo.svg"
+          "id": "subc_11",
+          "title": "Customer Support & Chatbots",
+          "links": [
+            {
+              "id": "link_420",
+              "title": "Intercom",
+              "url": "https://www.intercom.com",
+              "description": "Conversational AI for customer messaging and support.",
+              "label": "support",
+              "logo": "https://www.intercom.com/favicon.ico"
+            },
+            {
+              "id": "link_421",
+              "title": "Zendesk AI",
+              "url": "https://www.zendesk.com/ai/",
+              "description": "AI automation for customer service.",
+              "label": "support",
+              "logo": "https://assets.zendesk.com/2.0/zendesk_logo.png"
+            }
+          ]
+        },
+        {
+          "id": "subc_12",
+          "title": "Data Analytics & Research",
+          "links": [
+            {
+              "id": "link_422",
+              "title": "IBM Watson Analytics",
+              "url": "https://www.ibm.com/watson/analytics",
+              "description": "Data analytics and visualization powered by AI.",
+              "label": "analytics",
+              "logo": "https://www.ibm.com/watson/assets/ibm-watson-logo.svg"
+            },
+            {
+              "id": "link_423",
+              "title": "NotebookLM",
+              "url": "https://notebooklm.com",
+              "description": "AI-powered research assistant.",
+              "label": "research",
+              "logo": "https://notebooklm.com/assets/logo.svg"
+            }
+          ]
+        },
+        {
+          "id": "subc_13",
+          "title": "Automation & Workflow",
+          "links": [
+            {
+              "id": "link_424",
+              "title": "Zapier",
+              "url": "https://zapier.com",
+              "description": "Automation platform connecting apps and workflows.",
+              "label": "automation",
+              "logo": "https://cdn.zapier.com/storage/services/90f15897d8b84a829b35f264c4cd9961.svg"
+            },
+            {
+              "id": "link_425",
+              "title": "n8n",
+              "url": "https://n8n.io",
+              "description": "Open-source workflow automation platform.",
+              "label": "automation",
+              "logo": "https://n8n.io/assets/images/logo/logo-square.svg"
+            }
+          ]
+        },
+        {
+          "id": "subc_14",
+          "title": "Software Development & Coding",
+          "links": [
+            {
+              "id": "link_426",
+              "title": "GitHub Copilot",
+              "url": "https://github.com/features/copilot",
+              "description": "AI-powered coding assistant by GitHub and OpenAI.",
+              "label": "development",
+              "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            },
+            {
+              "id": "link_427",
+              "title": "Cursor",
+              "url": "https://cursor.so",
+              "description": "AI coding assistant to boost developer productivity.",
+              "label": "development",
+              "logo": "https://cursor.so/logo.svg"
+            }
+          ]
+        },
+        {
+          "id": "subc_15",
+          "title": "Voice, Audio & Music",
+          "links": [
+            {
+              "id": "link_428",
+              "title": "ElevenLabs",
+              "url": "https://elevenlabs.io",
+              "description": "AI text-to-speech voice generation.",
+              "label": "audio",
+              "logo": "https://elevenlabs.io/assets/icons/logo.svg"
+            },
+            {
+              "id": "link_429",
+              "title": "Murf",
+              "url": "https://murf.ai",
+              "description": "AI voiceover and narration platform.",
+              "label": "audio",
+              "logo": "https://murf.ai/favicon/android-icon-192x192.png"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "subc_8",
-      "title": "Content Creation & Writing",
-      "links": [
-        {
-          "id": "link_409",
-          "title": "Jasper AI",
-          "url": "https://jasper.ai",
-          "description": "AI-powered copywriting and marketing content generation.",
-          "label": "content",
-          "logo": "https://assets.website-files.com/5ff6e1be950e5e2912cd7ee0/63d6f3e7eb344b518a11827c_jasper-logo.svg"
-        },
-        {
-          "id": "link_410",
-          "title": "Rytr",
-          "url": "https://rytr.me",
-          "description": "AI writing assistant with multiple languages and tones.",
-          "label": "writing",
-          "logo": "https://rytr.me/favicon.ico"
-        },
-        {
-          "id": "link_411",
-          "title": "Grammarly",
-          "url": "https://grammarly.com",
-          "description": "AI-powered writing assistant for grammar and style correction.",
-          "label": "writing",
-          "logo": "https://static.grammarly.com/assets/files/grammarly_logo.svg"
-        },
-        {
-          "id": "link_412",
-          "title": "Sudowrite",
-          "url": "https://www.sudowrite.com",
-          "description": "Creative writing assistant using AI.",
-          "label": "writing",
-          "logo": "https://www.sudowrite.com/static/sudowrite-logo.svg"
-        }
-      ]
-    },
-    {
-      "id": "subc_9",
-      "title": "Video & Image Generation",
-      "links": [
-        {
-          "id": "link_413",
-          "title": "Synthesia",
-          "url": "https://www.synthesia.io",
-          "description": "AI video generation platform with avatars in multiple languages.",
-          "label": "video",
-          "logo": "https://www.synthesia.io/images/logos/color_logo.svg"
-        },
-        {
-          "id": "link_414",
-          "title": "Midjourney",
-          "url": "https://midjourney.com",
-          "description": "AI-powered image generation from textual prompts.",
-          "label": "image",
-          "logo": "https://cdn.midjourney.com/logo.svg"
-        },
-        {
-          "id": "link_415",
-          "title": "DALL·E",
-          "url": "https://openai.com/dall-e",
-          "description": "OpenAI's AI model generating images from text prompts.",
-          "label": "image",
-          "logo": "https://openai.com/content/images/2022/05/dall-e-logo.png"
-        },
-        {
-          "id": "link_416",
-          "title": "Canva Magic Studio",
-          "url": "https://www.canva.com",
-          "description": "Graphic design platform with AI-powered tools.",
-          "label": "design",
-          "logo": "https://static.canva.com/web/images/favicons/favicon-32x32.png"
-        }
-      ]
-    },
-    {
-      "id": "subc_10",
-      "title": "Marketing & Sales Automation",
-      "links": [
-        {
-          "id": "link_417",
-          "title": "HubSpot AI",
-          "url": "https://www.hubspot.com/products/cms/ai-website-generator",
-          "description": "Marketing automation and AI website builder.",
-          "label": "marketing",
-          "logo": "https://cdn2.hubspot.net/hubfs/53/hubspot-logo.svg"
-        },
-        {
-          "id": "link_418",
-          "title": "Salesforce Einstein",
-          "url": "https://www.salesforce.com/products/einstein/overview/",
-          "description": "AI-powered analytics for marketing and sales.",
-          "label": "sales",
-          "logo": "https://c1.sfdcstatic.com/business-prod/images/logo-salesforce.svg"
-        },
-        {
-          "id": "link_419",
-          "title": "Albert AI",
-          "url": "https://www.albert.ai/",
-          "description": "AI platform for digital advertising and marketing campaigns.",
-          "label": "marketing",
-          "logo": "https://www.albert.ai/wp-content/uploads/2018/11/albert-logo.svg"
-        }
-      ]
-    },
-    {
-      "id": "subc_11",
-      "title": "Customer Support & Chatbots",
-      "links": [
-        {
-          "id": "link_420",
-          "title": "Intercom",
-          "url": "https://www.intercom.com",
-          "description": "Conversational AI for customer messaging and support.",
-          "label": "support",
-          "logo": "https://www.intercom.com/favicon.ico"
-        },
-        {
-          "id": "link_421",
-          "title": "Zendesk AI",
-          "url": "https://www.zendesk.com/ai/",
-          "description": "AI automation for customer service.",
-          "label": "support",
-          "logo": "https://assets.zendesk.com/2.0/zendesk_logo.png"
-        }
-      ]
-    },
-    {
-      "id": "subc_12",
-      "title": "Data Analytics & Research",
-      "links": [
-        {
-          "id": "link_422",
-          "title": "IBM Watson Analytics",
-          "url": "https://www.ibm.com/watson/analytics",
-          "description": "Data analytics and visualization powered by AI.",
-          "label": "analytics",
-          "logo": "https://www.ibm.com/watson/assets/ibm-watson-logo.svg"
-        },
-        {
-          "id": "link_423",
-          "title": "NotebookLM",
-          "url": "https://notebooklm.com",
-          "description": "AI-powered research assistant.",
-          "label": "research",
-          "logo": "https://notebooklm.com/assets/logo.svg"
-        }
-      ]
-    },
-    {
-      "id": "subc_13",
-      "title": "Automation & Workflow",
-      "links": [
-        {
-          "id": "link_424",
-          "title": "Zapier",
-          "url": "https://zapier.com",
-          "description": "Automation platform connecting apps and workflows.",
-          "label": "automation",
-          "logo": "https://cdn.zapier.com/storage/services/90f15897d8b84a829b35f264c4cd9961.svg"
-        },
-        {
-          "id": "link_425",
-          "title": "n8n",
-          "url": "https://n8n.io",
-          "description": "Open-source workflow automation platform.",
-          "label": "automation",
-          "logo": "https://n8n.io/assets/images/logo/logo-square.svg"
-        }
-      ]
-    },
-    {
-      "id": "subc_14",
-      "title": "Software Development & Coding",
-      "links": [
-        {
-          "id": "link_426",
-          "title": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI-powered coding assistant by GitHub and OpenAI.",
-          "label": "development",
-          "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-        },
-        {
-          "id": "link_427",
-          "title": "Cursor",
-          "url": "https://cursor.so",
-          "description": "AI coding assistant to boost developer productivity.",
-          "label": "development",
-          "logo": "https://cursor.so/logo.svg"
-        }
-      ]
-    },
-    {
-      "id": "subc_15",
-      "title": "Voice, Audio & Music",
-      "links": [
-        {
-          "id": "link_428",
-          "title": "ElevenLabs",
-          "url": "https://elevenlabs.io",
-          "description": "AI text-to-speech voice generation.",
-          "label": "audio",
-          "logo": "https://elevenlabs.io/assets/icons/logo.svg"
-        },
-        {
-          "id": "link_429",
-          "title": "Murf",
-          "url": "https://murf.ai",
-          "description": "AI voiceover and narration platform.",
-          "label": "audio",
-          "logo": "https://murf.ai/favicon/android-icon-192x192.png"
-        }
-      ]
-    }
-  ]
-}
-,   {
       "id": "cat_11",
       "title": "Programming & Dev Tools",
       "icon": "Code",
-       "backgroundImage":"/categories/programming&devtools.png",
+      "backgroundImage": "/categories/programming&devtools.png",
       "subcategories": [
         {
           "id": "subc_5",
@@ -660,11 +665,11 @@
         }
       ]
     },
-        {
+    {
       "id": "cat_14",
       "title": "Learning & Community",
       "icon": "BookOpen",
-        "backgroundImage":"/categories/learning&community.png",
+      "backgroundImage": "/categories/learning&community.png",
       "subcategories": [
         {
           "id": "subc_11",
@@ -708,7 +713,7 @@
       "id": "cat_3",
       "title": "Banks",
       "icon": "Banknote",
-      "backgroundImage":"/categories/bank.png",
+      "backgroundImage": "/categories/bank.png",
       "subcategories": [
         {
           "id": "subc_1",
@@ -966,7 +971,7 @@
       "id": "cat_4",
       "title": "E-commerce & Marketplaces",
       "icon": "ShoppingCart",
-      "backgroundImage":"/categories/eccomm.png",
+      "backgroundImage": "/categories/eccomm.png",
       "subcategories": [
         {
           "id": "subc_3",
@@ -989,12 +994,12 @@
               "logo": "https://selldone.com/wp-content/uploads/2020/04/logo.png"
             },
             {
-              "id" : "link_204",
-              "title":"Thulo.com",
-              "url":"https://thulo.com.np/",
-              "description":"Multi-category online store with books, groceries, electronics, etc",
-              "label":"platform",
-              "logo":"https://thulo.com/favicon.ico"
+              "id": "link_204",
+              "title": "Thulo.com",
+              "url": "https://thulo.com.np/",
+              "description": "Multi-category online store with books, groceries, electronics, etc",
+              "label": "platform",
+              "logo": "https://thulo.com/favicon.ico"
             },
             {
               "id": "link_205",
@@ -1004,54 +1009,54 @@
               "label": "platform",
               "logo": "https://www.dealayo.com/media/favicon/default/favicon.ico"
             },
-              {
-                "id": "link_206",
-                "title": "MeroShopping",
-                "url": "https://www.meroshopping.com",
-                "description": "Reliable e-commerce store with free delivery inside Kathmandu valley.",
-                "label": "popular",
-                "logo": "https://www.meroshopping.com/front/assets/image/catalog/demo/logo/logo-old.png"
-              },
-                {
-                  "id": "link_007",
-                  "title": "SmartDoko",
-                  "url": "https://smartdoko.com",
-                  "description": "IMS Group’s online megastore offering wide range of products & reward points system.",
-                  "label": "popular",
-                  "logo": "https://smartdoko.com/images/logo-smartdoko.png"
-                },
-                {
-                  "id": "link_208",
-                  "title": "Muncha.com",
-                  "url": "https://www.muncha.com",
-                  "description": "One of Nepal’s oldest online gift and shopping sites, popular among NRNs.",
-                  "label": "platform",
-                  "logo": "https://www.muncha.com/favicon.ico"
-                },
-                {
-                  "id": "link_209",
-                  "title": "Foodmandu",
-                  "url": "https://foodmandu.com",
-                  "description": "Nepal’s first and largest online food delivery platform.",
-                  "label": "specialized",
-                  "logo": "https://foodmandu.com/favicon.ico"
-                },
-                {
-                  "id": "link_210",
-                  "title": "Oliz Store",
-                  "url": "https://www.olizstore.com",
-                  "description": "Premium Nepali e-commerce site for Apple products, gadgets, and electronics.",
-                  "label": "marketplace",
-                  "logo": "https://www.olizstore.com/favicon.ico"
-                },
-                {
-                  "id": "link_211",
-                  "title": "Swodeshi",
-                  "url": "https://swodeshi.com",
-                  "description": "Online marketplace highlighting Nepali-made and handcrafted products.",
-                  "label": "marketplace",
-                  "logo": "https://swodeshi.com/favicon.ico"
-                }
+            {
+              "id": "link_206",
+              "title": "MeroShopping",
+              "url": "https://www.meroshopping.com",
+              "description": "Reliable e-commerce store with free delivery inside Kathmandu valley.",
+              "label": "popular",
+              "logo": "https://www.meroshopping.com/front/assets/image/catalog/demo/logo/logo-old.png"
+            },
+            {
+              "id": "link_007",
+              "title": "SmartDoko",
+              "url": "https://smartdoko.com",
+              "description": "IMS Group’s online megastore offering wide range of products & reward points system.",
+              "label": "popular",
+              "logo": "https://smartdoko.com/images/logo-smartdoko.png"
+            },
+            {
+              "id": "link_208",
+              "title": "Muncha.com",
+              "url": "https://www.muncha.com",
+              "description": "One of Nepal’s oldest online gift and shopping sites, popular among NRNs.",
+              "label": "platform",
+              "logo": "https://www.muncha.com/favicon.ico"
+            },
+            {
+              "id": "link_209",
+              "title": "Foodmandu",
+              "url": "https://foodmandu.com",
+              "description": "Nepal’s first and largest online food delivery platform.",
+              "label": "specialized",
+              "logo": "https://foodmandu.com/favicon.ico"
+            },
+            {
+              "id": "link_210",
+              "title": "Oliz Store",
+              "url": "https://www.olizstore.com",
+              "description": "Premium Nepali e-commerce site for Apple products, gadgets, and electronics.",
+              "label": "marketplace",
+              "logo": "https://www.olizstore.com/favicon.ico"
+            },
+            {
+              "id": "link_211",
+              "title": "Swodeshi",
+              "url": "https://swodeshi.com",
+              "description": "Online marketplace highlighting Nepali-made and handcrafted products.",
+              "label": "marketplace",
+              "logo": "https://swodeshi.com/favicon.ico"
+            }
           ]
         },
         {
@@ -1138,7 +1143,6 @@
               "label": "classified",
               "logo": "https://nepsouk.com/favicon.ico"
             }
-                  
           ]
         }
       ]
@@ -1147,7 +1151,7 @@
       "id": "cat_5",
       "title": "Jobs & Career",
       "icon": "Briefcase",
-       "backgroundImage":"/categories/jobs&career.png",
+      "backgroundImage": "/categories/jobs&career.png",
       "links": [
         {
           "id": "cat_13_301",
@@ -1177,7 +1181,7 @@
           "description": "Leading Nepali online news portal with comprehensive coverage — featured on DailyLinksNepal as a trusted news source.",
           "logo": "https://www.onlinekhabar.com/wp-content/themes/onlinekhabar/images/logo.png"
         },
-           {
+        {
           "id": "cat_13_305",
           "title": "NamasteJob",
           "url": "https://namastejob.com/",
@@ -1246,78 +1250,78 @@
       "id": "cat_6",
       "title": "Sports & Recreation",
       "icon": "Dumbbell",
-       "backgroundImage":"/categories/sports&recrestion.png",
+      "backgroundImage": "/categories/sports&recrestion.png",
       "links": [
         {
-      "id": "cat_14_301",
-      "title": "Cricket Association of Nepal",
-      "url": "https://cricketnepal.org.np/",
-      "description": "Official governing body for cricket in Nepal.",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Cricket_Association_of_Nepal_logo.png/150px-Cricket_Association_of_Nepal_logo.png"
-    },
-    {
-      "id": "cat_14_302",
-      "title": "Cricket Association of the Blind – Nepal",
-      "url": "https://cabnepal.org.np/",
-      "description": "Promotes cricket for visually impaired athletes in Nepal.",
-      "logo": "https://cabnepal.org.np/wp-content/uploads/2021/02/cab-logo.png"
-    },
-    {
-      "id": "cat_14_303",
-      "title": "All Nepal Football Association (ANFA)",
-      "url": "https://the-anfa.com/",
-      "description": "Official governing body for football in Nepal.",
-      "logo": "https://the-anfa.com/themes/anfa_theme/images/logo.png"
-    },
-    {
-      "id": "cat_14_304",
-      "title": "Nepal Olympic Committee",
-      "url": "https://www.nocnepal.org.np/",
-      "description": "National Olympic body representing Nepal in international games.",
-      "logo": "https://nocnepal.org.np/uploads/logo.png"
-    },
-    {
-      "id": "cat_14_305",
-      "title": "Nepal National and International Players Association (NNIPA)",
-      "url": "https://nnipa.org.np/",
-      "description": "Supports Nepali athletes with resources and opportunities.",
-      "logo": "https://nnipa.org.np/images/logo.png"
-    },
-    {
-      "id": "cat_14_306",
-      "title": "Nepal Volleyball Association",
-      "url": "https://nepavolleyball.org/",
-      "description": "Official body to manage and develop volleyball in Nepal.",
-      "logo": "https://nepavolleyball.org/images/logo.png"
-    },
-    {
-      "id": "cat_14_307",
-      "title": "Nepal Taekwondo Association",
-      "url": "https://nepaltaekwondo.org.np/",
-      "description": "Governing body promoting taekwondo across Nepal.",
-      "logo": "https://nepaltaekwondo.org.np/assets/images/logo.png"
-    },
-    {
-      "id": "cat_14_308",
-      "title": "Nepal Golf Association",
-      "url": "https://nepalgolf.org.np/",
-      "description": "Promotes golf and manages tournaments in Nepal.",
-      "logo": "https://nepalgolf.org.np/images/logo.png"
-    },
-    {
-      "id": "cat_14_309",
-      "title": "National Sports Council Nepal",
-      "url": "https://nsc.gov.np/",
-      "description": "Government body for development and promotion of sports in Nepal.",
-      "logo": "https://nsc.gov.np/images/logo.png"
-    }
+          "id": "cat_14_301",
+          "title": "Cricket Association of Nepal",
+          "url": "https://cricketnepal.org.np/",
+          "description": "Official governing body for cricket in Nepal.",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Cricket_Association_of_Nepal_logo.png/150px-Cricket_Association_of_Nepal_logo.png"
+        },
+        {
+          "id": "cat_14_302",
+          "title": "Cricket Association of the Blind – Nepal",
+          "url": "https://cabnepal.org.np/",
+          "description": "Promotes cricket for visually impaired athletes in Nepal.",
+          "logo": "https://cabnepal.org.np/wp-content/uploads/2021/02/cab-logo.png"
+        },
+        {
+          "id": "cat_14_303",
+          "title": "All Nepal Football Association (ANFA)",
+          "url": "https://the-anfa.com/",
+          "description": "Official governing body for football in Nepal.",
+          "logo": "https://the-anfa.com/themes/anfa_theme/images/logo.png"
+        },
+        {
+          "id": "cat_14_304",
+          "title": "Nepal Olympic Committee",
+          "url": "https://www.nocnepal.org.np/",
+          "description": "National Olympic body representing Nepal in international games.",
+          "logo": "https://nocnepal.org.np/uploads/logo.png"
+        },
+        {
+          "id": "cat_14_305",
+          "title": "Nepal National and International Players Association (NNIPA)",
+          "url": "https://nnipa.org.np/",
+          "description": "Supports Nepali athletes with resources and opportunities.",
+          "logo": "https://nnipa.org.np/images/logo.png"
+        },
+        {
+          "id": "cat_14_306",
+          "title": "Nepal Volleyball Association",
+          "url": "https://nepavolleyball.org/",
+          "description": "Official body to manage and develop volleyball in Nepal.",
+          "logo": "https://nepavolleyball.org/images/logo.png"
+        },
+        {
+          "id": "cat_14_307",
+          "title": "Nepal Taekwondo Association",
+          "url": "https://nepaltaekwondo.org.np/",
+          "description": "Governing body promoting taekwondo across Nepal.",
+          "logo": "https://nepaltaekwondo.org.np/assets/images/logo.png"
+        },
+        {
+          "id": "cat_14_308",
+          "title": "Nepal Golf Association",
+          "url": "https://nepalgolf.org.np/",
+          "description": "Promotes golf and manages tournaments in Nepal.",
+          "logo": "https://nepalgolf.org.np/images/logo.png"
+        },
+        {
+          "id": "cat_14_309",
+          "title": "National Sports Council Nepal",
+          "url": "https://nsc.gov.np/",
+          "description": "Government body for development and promotion of sports in Nepal.",
+          "logo": "https://nsc.gov.np/images/logo.png"
+        }
       ]
     },
     {
       "id": "cat_7",
       "title": "Weather & Natural Disaster Updates",
       "icon": "CloudSun",
-      "backgroundImage":"/categories/weather&naturaldisaster.png",
+      "backgroundImage": "/categories/weather&naturaldisaster.png",
       "links": [
         {
           "id": "cat_15_301",
@@ -1332,7 +1336,7 @@
       "id": "cat_8",
       "title": "News & Media",
       "icon": "Newspaper",
-      "backgroundImage":"/categories/news&media.png",
+      "backgroundImage": "/categories/news&media.png",
       "subcategories": [
         {
           "id": "subc_11",
@@ -1507,7 +1511,7 @@
       "id": "cat_9",
       "title": "Utilities",
       "icon": "Plug",
-      "backgroundImage":"/categories/utilities.png",
+      "backgroundImage": "/categories/utilities.png",
       "subcategories": [
         {
           "id": "subc_13",
@@ -1613,7 +1617,7 @@
       "id": "cat_10",
       "title": "Travel & Transport",
       "icon": "Bus",
-       "backgroundImage":"/categories/travel&transport.png",
+      "backgroundImage": "/categories/travel&transport.png",
       "subcategories": [
         {
           "id": "subc_14",
@@ -1747,13 +1751,11 @@
       ],
       "links": []
     },
- 
-  
     {
       "id": "cat_13",
       "title": "Government & Citizen Services",
       "icon": "Globe",
-      "backgroundImage":"/categories/goverment&citizenservice.png",
+      "backgroundImage": "/categories/goverment&citizenservice.png",
       "subcategories": [
         {
           "id": "subc_10",
@@ -1779,12 +1781,11 @@
         }
       ]
     },
-
     {
       "id": "cat_15",
       "title": "Tools for Businesses",
       "icon": "Server",
-          "backgroundImage":"/categories/toolsforbusiness.png",
+      "backgroundImage": "/categories/toolsforbusiness.png",
       "subcategories": [
         {
           "id": "subc_13",
@@ -1822,13 +1823,12 @@
       "id": "res-se",
       "title": "School Level Exams",
       "links": [
-       
         {
           "id": "see-ekt",
           "title": "Grade-10 (SEE) Ekantipur",
           "url": "https://results.ekantipur.com/see-results-with-marksheet.php",
           "description": "View SEE Grade 10 results from Ekantipur’s results service. Handpicked by DailylinksNepal for fast and easy result checking.",
-     "logo": "https://results.ekantipur.com/assets/images/kantipur-logo.png"
+          "logo": "https://results.ekantipur.com/assets/images/kantipur-logo.png"
         }
       ]
     },
@@ -1841,7 +1841,7 @@
           "title": "Grade-12 (+2) NEB Official",
           "url": "http://www.neb.gov.np/results",
           "description": "Get official NEB Grade 12 results for all streams, including Science. Selected by DailylinksNepal to give you verified academic updates.",
- "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNF9Jizyp1m3VBVtaWU3pClbYmYx7XT9HqUA&s"
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNF9Jizyp1m3VBVtaWU3pClbYmYx7XT9HqUA&s"
         },
         {
           "id": "plus2-mgmt",
@@ -2725,21 +2725,21 @@
             {
               "id": "chap_10_1_3",
               "title": "Compound Interest",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/compoundInterest.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_4",
               "title": "Population Growth and Depreciation",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/populationGrowthandDepreciation.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_5",
               "title": "Menstruation: Plane Surface",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/menstruationPlaneSurface.pdf",
               "active": true
             },
@@ -2752,51 +2752,51 @@
             {
               "id": "chap_10_1_6",
               "title": "Mensuration: Prism and Pyramid",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/MensurationPrismandPyramid.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "HCF and LCM",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/hcflcm.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_6",
               "title": "Indices",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/Indices.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Surds",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/surds.pdf",
               "active": true
             },
             {
               "id": "chap_10_1_6",
               "title": "Equation",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/Equation.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Geometry: Area of Triangle and Quadrilateral ",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/GeometryAreaofTriangleandQuadrilateral .pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Geometry: Construction",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/GeometryConstructionl.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": "Geometry: Circle",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/GeometryCircle.pdf"
             },
             {
@@ -2808,13 +2808,13 @@
             {
               "id": "chap_10_1_6",
               "title": "Statics",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/Statics.pdf"
             },
             {
               "id": "chap_10_1_6",
               "title": " Probability",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/10/cmath/Probability.pdf"
             }
           ]
@@ -2822,12 +2822,12 @@
         {
           "id": "sub_10_2",
           "title": "Science",
-         "thumbnail": "/notes/10/science/images/science.jpeg",
+          "thumbnail": "/notes/10/science/images/science.jpeg",
           "chapters": [
             {
               "id": "chap_10_2_1",
               "title": "Physics",
-             "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/notes/10/science/physics.pdf"
             },
             {
@@ -2839,7 +2839,7 @@
             {
               "id": "chap_10_2_3",
               "title": "Biology",
-            "thumbnail": "/notes.jpeg",
+              "thumbnail": "/notes.jpeg",
               "fileUrl": "/notes/10/science/biology.pdf"
             }
           ]

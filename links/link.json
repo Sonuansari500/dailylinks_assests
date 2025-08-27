@@ -1797,11 +1797,11 @@
   "results": [
     {
       "id": "res-se",
-      "title": "School Level Exams",
+      "title": "School Level Results",
       "links": [
         {
           "id": "see-ekt",
-          "title": "Grade-10 (SEE) Ekantipur",
+          "title": "Ekantipur",
           "url": "https://results.ekantipur.com/see-results-with-marksheet.php",
           "description": "View SEE Grade 10 results from Ekantipur’s results service. Handpicked by DailylinksNepal for fast and easy result checking.",
           "logo": "https://results.ekantipur.com/assets/images/kantipur-logo.png"
@@ -1810,11 +1810,11 @@
     },
     {
       "id": "res-12",
-      "title": "Higher Secondary Exams",
+      "title": "Higher Secondary Results",
       "links": [
         {
           "id": "plus2-sci",
-          "title": "Grade-12 (+2) NEB Official",
+          "title": "NEB Official",
           "url": "https://neb.ntc.net.np/",
           "description": "Get official NEB Grade 12 results for all streams, including Science. Selected by DailylinksNepal to give you verified academic updates.",
           "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNF9Jizyp1m3VBVtaWU3pClbYmYx7XT9HqUA&s"

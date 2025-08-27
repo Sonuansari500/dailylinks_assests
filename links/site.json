@@ -31,21 +31,17 @@
       "href": "/result"
     },
     {
-      "title": "Study Notes",
+      "title": "Notes Library",
       "href": "/notes"
     },
     {
-      "title": "Categories",
+      "title": "All Categories",
       "href": "/categories",
       "tooltip": "All your everyday links organized for quick access."
     },
     {
       "title": "About",
       "href": "/about"
-    },
-    {
-      "title": "Privacy Policy",
-      "href": "/privacy"
     }
   ],
   "quickLinks": [

@@ -2610,31 +2610,93 @@
             }
           ]
         },
-        {
+         {
           "id": "sub_10_2",
-          "title": "Science",
+          "title": "Computer Science",
           "thumbnail": "/notes/10/science/images/science.jpeg",
-          "chapters": [
-            {
-              "id": "chap_10_2_1",
-              "title": "Physics",
-              "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/10/science/physics.pdf"
-            },
-            {
-              "id": "chap_10_2_2",
-              "title": "Chemistry",
-              "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/10/science/chemistry.pdf"
-            },
-            {
-              "id": "chap_10_2_3",
-              "title": "Biology",
-              "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/10/science/biology.pdf"
-            }
-          ]
+          "chapters":[
+  {
+    "id": "chap_1",
+    "title": "Networking and Telecommunication",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/networking_and_telecommunication.pdf"
+  },
+  {
+    "id": "chap_2",
+    "title": "Internet and Its Services",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/internet_and_its_services.pdf"
+  },
+  {
+    "id": "chap_3",
+    "title": "Ethical and Social Issues in ICT",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/ethical_and_social_issues_in_ict.pdf"
+  },
+  {
+    "id": "chap_4",
+    "title": "Computer Security",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/computer_security.pdf"
+  },
+  {
+    "id": "chap_5",
+    "title": "Electronic Commerce",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/electronic_commerce.pdf"
+  },
+  {
+    "id": "chap_6",
+    "title": "Contemporary Technology",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/contemporary_technology.pdf"
+  },
+  {
+    "id": "chap_7",
+    "title": "Number System",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/number_system.pdf"
+  },
+  {
+    "id": "chap_8",
+    "title": "Microsoft Access",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/microsoft_access.pdf"
+  },
+  {
+    "id": "chap_9",
+    "title": "Review of Control Statement",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/review_of_control_statement.pdf"
+  },
+  {
+    "id": "chap_10",
+    "title": "Review of Library Function of Qbasic",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/review_of_library_function_of_qbasic.pdf"
+  },
+  {
+    "id": "chap_11",
+    "title": "Modular Programming",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/modular_programming.pdf"
+  },
+  {
+    "id": "chap_12",
+    "title": "File Processing (File Handling)",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/file_processing.pdf"
+  },
+  {
+    "id": "chap_13",
+    "title": "Structure Programming – C Language",
+    "thumbnail": "/notes.jpeg",
+    "fileUrl": "/notes/structure_programming_c_language.pdf"
+  }
+]
+
         }
+
       ]
     }
   ]

@@ -2408,110 +2408,417 @@
               "id": "chap_10_1_1",
               "title": "Set",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/sets.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Set Notes PDF",
+                      "fileurl": "/10/cmath/sets.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
               "id": "chap_10_1_2",
               "title": "Tax and Money Exchange",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/taxandMoneyExchange.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Tax and Money Exchange",
+                      "fileurl": "/10/cmath/taxandMoneyExchange.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
               "id": "chap_10_1_3",
               "title": "Compound Interest",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/compoundInterest.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Compound Interest PDF",
+                      "fileurl": "/10/cmath/compoundInterest.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
               "id": "chap_10_1_4",
               "title": "Population Growth and Depreciation",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/populationGrowthandDepreciation.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Population Growth and Depreciation PDF",
+                      "fileurl": "/10/cmath/populationGrowthandDepreciation.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
               "id": "chap_10_1_5",
               "title": "Menstruation: Plane Surface",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/menstruationPlaneSurface.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Menstruation: Plane Surface",
+                      "fileurl": "/10/cmath/menstruationPlaneSurface.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
               "id": "chap_10_1_6",
               "title": "Menstruation: Cylinder and Sphere",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/MenstruationCylinderandSphere.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Menstruation: Cylinder and Sphere",
+                      "fileurl": "/10/cmath/MenstruationCylinderandSphere.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_7",
               "title": "Mensuration: Prism and Pyramid",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/MensurationPrismandPyramid.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Mensuration: Prism and Pyramid",
+                      "fileurl": "/10/cmath/MensurationPrismandPyramid.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_8",
               "title": "HCF and LCM",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/hcflcm.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "HCF and LCM",
+                      "fileurl": "/10/cmath/hcflcm.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_9",
               "title": "Indices",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/Indices.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Indices",
+                      "fileurl": "/10/cmath/Indices.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_10",
               "title": "Surds",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/surds.pdf",
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Surds",
+                      "fileurl": "/10/cmath/surds.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
               "active": true
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_11",
               "title": "Equation",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/Equation.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Equation",
+                      "fileurl": "/10/cmath/Equation.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
-              "title": "Geometry: Area of Triangle and Quadrilateral ",
+              "id": "chap_10_1_12",
+              "title": "Geometry: Area of Triangle and Quadrilateral",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/GeometryAreaofTriangleandQuadrilateral .pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Geometry: Area of Triangle and Quadrilateral",
+                      "fileurl": "/10/cmath/GeometryAreaofTriangleandQuadrilateral .pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_13",
               "title": "Geometry: Construction",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/GeometryConstructionl.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Geometry: Construction",
+                      "fileurl": "/10/cmath/GeometryConstructionl.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_14",
               "title": "Geometry: Circle",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/GeometryCircle.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Geometry: Circle",
+                      "fileurl": "/10/cmath/GeometryCircle.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_15",
               "title": "Trigonometry",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/Trigonometry.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Trigonometry",
+                      "fileurl": "/10/cmath/Trigonometry.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ],
+              "active": true
             },
             {
-              "id": "chap_10_1_6",
+              "id": "chap_10_1_16",
               "title": "Statics",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/Statics.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Statics",
+                      "fileurl": "/10/cmath/Statics.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
-              "id": "chap_10_1_6",
-              "title": " Probability",
+              "id": "chap_10_1_17",
+              "title": "Probability",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/10/cmath/Probability.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Probability",
+                      "fileurl": "/10/cmath/Probability.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             }
           ]
         },
@@ -2524,83 +2831,316 @@
               "id": "chap_1",
               "title": "Networking and Telecommunication",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/networking_and_telecommunication.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Networking and Telecommunication",
+                      "fileurl": "/notes/networking_and_telecommunication.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_2",
               "title": "Internet and Its Services",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/internet_and_its_services.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Internet and Its Services",
+                      "fileurl": "/notes/internet_and_its_services.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_3",
               "title": "Ethical and Social Issues in ICT",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/ethical_and_social_issues_in_ict.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Ethical and Social Issues in ICT",
+                      "fileurl": "/notes/ethical_and_social_issues_in_ict.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_4",
               "title": "Computer Security",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/computer_security.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Computer Security",
+                      "fileurl": "/notes/computer_security.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_5",
               "title": "Electronic Commerce",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/electronic_commerce.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Electronic Commerce",
+                      "fileurl": "/notes/electronic_commerce.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_6",
               "title": "Contemporary Technology",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/contemporary_technology.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Contemporary Technology",
+                      "fileurl": "/notes/contemporary_technology.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_7",
               "title": "Number System",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/number_system.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Number System",
+                      "fileurl": "/notes/number_system.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_8",
               "title": "Microsoft Access",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/microsoft_access.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Microsoft Access",
+                      "fileurl": "/notes/microsoft_access.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_9",
               "title": "Review of Control Statement",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/review_of_control_statement.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Review of Control Statement",
+                      "fileurl": "/notes/review_of_control_statement.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_10",
               "title": "Review of Library Function of Qbasic",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/review_of_library_function_of_qbasic.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Review of Library Function of Qbasic",
+                      "fileurl": "/notes/review_of_library_function_of_qbasic.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_11",
               "title": "Modular Programming",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/modular_programming.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Modular Programming",
+                      "fileurl": "/notes/modular_programming.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_12",
               "title": "File Processing (File Handling)",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/file_processing.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "File Processing (File Handling)",
+                      "fileurl": "/notes/file_processing.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             },
             {
               "id": "chap_13",
               "title": "Structure Programming – C Language",
               "thumbnail": "/notes.jpeg",
-              "fileUrl": "/notes/structure_programming_c_language.pdf"
+              "resources": [
+                {
+                  "label": "Notes",
+                  "items": [
+                    {
+                      "title": "Structure Programming – C Language",
+                      "fileurl": "/notes/structure_programming_c_language.pdf"
+                    }
+                  ]
+                },
+                {
+                  "label": "Question Papers",
+                  "items": []
+                },
+                {
+                  "label": "Extra Resources",
+                  "items": []
+                }
+              ]
             }
           ]
         }
-        
       ]
     }
   ]

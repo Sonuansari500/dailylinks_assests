@@ -5,6 +5,7 @@
       "icon": "Home",
       "href": "/"
     },
+    
     {
       "label": "Check  Results",
       "icon": "ClipboardList",
@@ -25,6 +26,10 @@
     {
       "title": "Home",
       "href": "/"
+    },
+    {
+      "title":"Travel & Explore",
+        "href":"/my-travel"
     },
     {
       "title": "Check Your Results",

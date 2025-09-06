@@ -7,11 +7,9 @@
     },
     {
       "label":"Travel & Explore",
-        "href":"/my-travel",
- "icon": "Luggage",
+      "href":"/my-travel",
+       "icon": "Luggage",
     },
-    
-   
     {
       "label": "Study Note",
       "icon": "BookOpen",
@@ -22,11 +20,11 @@
       "icon": "LayoutGrid",
       "href": "/categories"
     },
- {
+    {
       "label": "Check  Results",
       "icon": "ClipboardList",
       "href": "/result"
-    },
+    }
   ],
   "headerLinks": [
     {

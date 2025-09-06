@@ -5,12 +5,13 @@
       "icon": "Home",
       "href": "/"
     },
-    
     {
-      "label": "Check  Results",
-      "icon": "ClipboardList",
-      "href": "/result"
+      "label":"Travel & Explore",
+        "href":"/my-travel",
+ "icon": "Luggage",
     },
+    
+   
     {
       "label": "Study Note",
       "icon": "BookOpen",
@@ -20,7 +21,12 @@
       "label": "Categories",
       "icon": "LayoutGrid",
       "href": "/categories"
-    }
+    },
+ {
+      "label": "Check  Results",
+      "icon": "ClipboardList",
+      "href": "/result"
+    },
   ],
   "headerLinks": [
     {
